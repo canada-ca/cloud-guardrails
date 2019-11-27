@@ -18,7 +18,7 @@ The Canada wordmark and related graphics associated with this distribution are p
 
 ______________________
 
-# GC Accelerateurs (Azure)
+# GC Cloud Guardrails
 
 TBD
 
