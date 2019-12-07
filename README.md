@@ -4,11 +4,13 @@ This project will host the minimum guardrails as part of the GC Cloud Operationa
 
 ## Purpose
 
-The purpose of the guardrails is to ensure that departments and agencies are implementing a preliminary baseline set of controls within their cloud-based environments. 
+The purpose of the guardrails is to ensure that departments and agencies are implementing a preliminary baseline set of controls within their cloud-based environments. These minimum guardrails are to be implemented within the GC-specified initial period (e.g. 30 days) upon receipt of an enrollment under the GC Cloud Services Framework Agreement. 
 
-## Summary
+Departments 
 
-A summary of the cloud guardrails are identified in the table below:
+## Summary - Initial 30 Days
+
+A summary of the cloud guardrails to be implemented in the initial phase are identified in the table below:
 
 | ID. | Guardrail |
 | --- | --- |
@@ -24,6 +26,15 @@ A summary of the cloud guardrails are identified in the table below:
 | 10 | [Cyber defense services](https://github.com/canada-ca/cloud-guardrails/blob/master/EN/10_Cyber-Defense-Services.MD) |
 | 11 | [Logging and monitoring](https://github.com/canada-ca/cloud-guardrails/blob/master/EN/11_Logging%20and%20Monitoring.MD) |
 | 12 | [Configuration of cloud marketplaces](https://github.com/canada-ca/cloud-guardrails/blob/master/EN/12_Cloud-Marketplace-Config.MD) |
+
+## Post 30 Days
+
+Departments are expected to continue implementing the security requirements as outlined in:
+
+* [Direction on the Secure Use of Commercial Cloud Services: Security Implementation Notice (SPIN)](https://www.canada.ca/en/government/system/digital-government/modern-emerging-technologies/direction-secure-use-commercial-cloud-services-spin.html)
+* [Government of Canada Security Control Profile for Cloud-Based GC Services](https://www.canada.ca/en/government/system/digital-government/modern-emerging-technologies/cloud-services/government-canada-security-control-profile-cloud-based-it-services.html)
+
+Departments should engage with their IT Security Risk Management teams to obtain advice and guidance on integrating security assessment and authorization activities as part of the implementation of the GC cloud environment. The [Government of Canada Cloud Security Risk Management Approach and Procedures](https://www.canada.ca/en/government/system/digital-government/modern-emerging-technologies/cloud-services/cloud-security-risk-management-approach-procedures.html) outlines activities for Departments to consider as part of the departmental risk management activities.
 
 ## How to Contribute
 
