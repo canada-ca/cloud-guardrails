@@ -1,10 +1,12 @@
-* Protect Root / Global Admins Account
+# Protect Root / Global Admins Account
 
-| **Description** |
-| --- |
-| **Objective** Protect root or master account used to establish the cloud service. |
-| **Key Considerations** 
-☐ Implement multi-factor authentication (MFA) mechanism for root/master account.
+## Objective
+
+Protect root or master account used to establish the cloud service. 
+
+## Key Considerations
+
+[ ] Implement multi-factor authentication (MFA) mechanism for root/master account.
 ☐ Document a break glass emergency account management procedure. Including names of users with root or master account access.
 ☐ Obtain signature from Departmental Chief Information Officer (CIO) and Chief Security Officer (CSO) to confirm acknowledgement and approval of the break glass emergency account management procedures.
 ☐ Implement a mechanism for enforcing access authorizations.
