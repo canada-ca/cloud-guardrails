@@ -8,7 +8,7 @@ Protect data at rest by default (e.g. storage) for cloud-based workloads.
 
 * [ ] Seek guidance from privacy and access to information officials within institutions before storing personal information in cloud-based environments.
 * [ ] Implement an encryption mechanism to protect the confidentiality and integrity of data when data are at rest in your solution&#39;s storage.
-* [ ] Use CSE-approved cryptographic algorithms and protocols.
+* [ ] Use CSE-approved cryptographic algorithms and protocols, in accordance with [40.111](https://cyber.gc.ca/en/guidance/cryptographic-algorithms-unclassified-protected-and-protected-b-information-itsp40111)and [40.062](https://www.cse-cst.gc.ca/en/system/files/pdf_documents/itsp.40.062-eng.pdf).
 * [ ] Implement key management procedures.
 
 ## Validation
