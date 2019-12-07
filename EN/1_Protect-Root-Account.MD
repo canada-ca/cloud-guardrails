@@ -1,11 +1,19 @@
-*Protect Root / Global Admins Account
+* Protect Root / Global Admins Account
 
 | **Description** |
 | --- |
 | **Objective** Protect root or master account used to establish the cloud service. |
-| **Key Considerations** ☐ Implement multi-factor authentication (MFA) mechanism for root/master account.☐Document a break glass emergency account management procedure. Including names of users with root or master account access.☐Obtain signature from Departmental Chief Information Officer (CIO) and Chief Security Officer (CSO) to confirm acknowledgement and approval of the break glass emergency account management procedures.☐ Implement a mechanism for enforcing access authorizations.☐ Configure appropriate alerts on root/master accounts to detect a potential compromise, in accordance with the [GC Event Logging](https://www.gcpedia.gc.ca/gcwiki/images/e/e3/GC_Event_Logging_Strategy.pdf)[Guidance](https://www.gcpedia.gc.ca/gcwiki/images/e/e3/GC_Event_Logging_Strategy.pdf). |
-| **Validation** ☐Confirm policy for MFA is enabled through screenshots and compliance reports.☐ Confirm that an attestation letter of the emergency break glass procedure has been signed by the Departmental CIO and CSO. |
+| **Key Considerations** 
+☐ Implement multi-factor authentication (MFA) mechanism for root/master account.
+☐ Document a break glass emergency account management procedure. Including names of users with root or master account access.
+☐ Obtain signature from Departmental Chief Information Officer (CIO) and Chief Security Officer (CSO) to confirm acknowledgement and approval of the break glass emergency account management procedures.
+☐ Implement a mechanism for enforcing access authorizations.
+☐ Configure appropriate alerts on root/master accounts to detect a potential compromise, in accordance with the [GC Event Logging](https://www.gcpedia.gc.ca/gcwiki/images/e/e3/GC_Event_Logging_Strategy.pdf)[Guidance](https://www.gcpedia.gc.ca/gcwiki/images/e/e3/GC_Event_Logging_Strategy.pdf). |
+
+| **Validation** ☐Confirm policy for MFA is enabled through screenshots and compliance reports.☐ Confirm that an attestation letter of the emergency break glass procedure has been signed by the Departmental CIO and CSO. 
+|
 | **Additional Considerations** ☐ Leverage enterprise services such as Administrative Access Control System (AACS) for Privileged Access Management (PAM), Attribute-based access control (ABAC). |
+
 | **References**
 1. 1)[SPIN 2017-01](https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/security-identity-management/direction-secure-use-commercial-cloud-services-spin.html), subsection 6.2.3
 2. 2)CSE Top 10 #3
