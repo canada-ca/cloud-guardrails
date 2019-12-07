@@ -14,16 +14,16 @@ A summary of the cloud guardrails are identified in the table below:
 | --- | --- |
 | 1 | [Protect Root / Global Admins Account](https://github.com/canada-ca/cloud-guardrails/blob/master/EN/1_Protect-Root-Account.MD) |
 | 2 | [Management of Administrative Privileges](https://github.com/canada-ca/cloud-guardrails/blob/master/EN/2_Management-Admin-Privileges.MD) |
-| 3 | Cloud Console Access (Developers/Application Owners) |
-| 4 | Enterprise Monitoring Accounts |
-| 5 | Data location |
-| 6 | Protection of data-at-rest |
-| 7 | Protection of data-in-transit |
-| 8 | Network segmentation |
-| 9 | Network Security Services |
-| 10 | Cyber Defense Services |
-| 11 | Logging and monitoring |
-| 12 | Configuration of Cloud Marketplaces |
+| 3 | [Cloud Console Access (Developers/Application Owners)](https://github.com/canada-ca/cloud-guardrails/blob/master/EN/3_Cloud-Console-Access.MD) |
+| 4 | [Enterprise Monitoring Accounts](https://github.com/canada-ca/cloud-guardrails/blob/master/EN/4_Enterprise-Monitoring-Accounts) |
+| 5 | [Data location](https://github.com/canada-ca/cloud-guardrails/blob/master/EN/5_Data-Location.MD) |
+| 6 | [Protection of data-at-rest](https://github.com/canada-ca/cloud-guardrails/blob/master/EN/6_Protect-Data-at-Rest.MD) |
+| 7 | [Protection of data-in-transit](https://github.com/canada-ca/cloud-guardrails/blob/master/EN/7_Protect-Data-in-Transit.MD) |
+| 8 | [Network segmentation](https://github.com/canada-ca/cloud-guardrails/blob/master/EN/8_Network-Segmentation.MD) |
+| 9 | [Network Security Services](https://github.com/canada-ca/cloud-guardrails/blob/master/EN/9_Network-Security-Services.MD) |
+| 10 | [Cyber Defense Services](https://github.com/canada-ca/cloud-guardrails/blob/master/EN/10_Cyber-Defense-Services.MD) |
+| 11 | [Logging and monitoring](https://github.com/canada-ca/cloud-guardrails/blob/master/EN/11_Logging%20and%20Monitoring.MD) |
+| 12 | [Configuration of Cloud Marketplaces](https://github.com/canada-ca/cloud-guardrails/blob/master/EN/12_Cloud-Marketplace-Config.MD) |
 
 ## How to Contribute
 
