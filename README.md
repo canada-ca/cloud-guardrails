@@ -21,7 +21,7 @@ A summary of the cloud guardrails to be implemented in the initial phase are ide
 | 5 | [Data location](https://github.com/canada-ca/cloud-guardrails/blob/master/EN/5_Data-Location.MD) |
 | 6 | [Protection of data-at-rest](https://github.com/canada-ca/cloud-guardrails/blob/master/EN/6_Protect-Data-at-Rest.MD) |
 | 7 | [Protection of data-in-transit](https://github.com/canada-ca/cloud-guardrails/blob/master/EN/7_Protect-Data-in-Transit.MD) |
-| 8 | [Network segmentation](https://github.com/canada-ca/cloud-guardrails/blob/master/EN/8_Network-Segmentation.MD) |
+| 8 | [Segment and separate](https://github.com/canada-ca/cloud-guardrails/blob/master/EN/8_Segmentation.MD) |
 | 9 | [Network security services](https://github.com/canada-ca/cloud-guardrails/blob/master/EN/9_Network-Security-Services.MD) |
 | 10 | [Cyber defense services](https://github.com/canada-ca/cloud-guardrails/blob/master/EN/10_Cyber-Defense-Services.MD) |
 | 11 | [Logging and monitoring](https://github.com/canada-ca/cloud-guardrails/blob/master/EN/11_Logging%20and%20Monitoring.MD) |
