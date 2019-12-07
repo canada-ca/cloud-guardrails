@@ -6,8 +6,10 @@ Protect data at rest by default (e.g. storage) for cloud-based workloads.
 
 ## Key Considerations
 
-* [ ] TBD
-☐ Seek guidance from privacy and access to information officials within institutions before storing personal information in cloud-based environments.☐ Implement an encryption mechanism to protect the confidentiality and integrity of data when data are at rest in your solution&#39;s storage.☐ Use CSE-approved cryptographic algorithms and protocols.☐ Implement key management procedures.
+* [ ] Seek guidance from privacy and access to information officials within institutions before storing personal information in cloud-based environments.
+* [ ] Implement an encryption mechanism to protect the confidentiality and integrity of data when data are at rest in your solution&#39;s storage.
+* [ ] Use CSE-approved cryptographic algorithms and protocols.
+* [ ] Implement key management procedures.
 
 ## Validation
 
