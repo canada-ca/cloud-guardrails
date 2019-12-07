@@ -13,7 +13,8 @@ Establish external and internal network perimeters and monitor network traffic.
 
 ## Validation
 
-* [ ] Confirm policy for network boundary protection.☐ Confirm policy for limiting number of public IPs.
+* [ ] Confirm policy for network boundary protection.
+* [ ] Confirm policy for limiting number of public IPs.
 * [ ] Confirm policy for limiting to authorized source IP addresses (e.g. GC IP addresses).
 
 ## References
