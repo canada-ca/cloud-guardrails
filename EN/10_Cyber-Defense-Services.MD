@@ -6,7 +6,8 @@ Establish MOU for defensive services and threat monitoring protection services.
 
 ## Key Considerations
 
-* [ ] Sign an MOU with CCCS.☐ Implement defensive services including HBS, CBS, and NBS in accordance with CCCS onboarding guidance.
+* [ ] Sign an MOU with CCCS.
+* [ ] Following onboarding guidance.
 
 ## Validation
 
