@@ -1,4 +1,4 @@
-# Network Segmentation
+# Segment and Separate
 
 ## Objective
 
@@ -6,7 +6,8 @@ Segment and separate information based on sensitivity of information.
 
 ## Key Considerations
 
-* [ ] Develop a target network security design that considers segmentation via network security zones, in alignment with [ITSG-22](https://cyber.gc.ca/en/guidance/baseline-security-requirements-network-security-zones-government-canada-itsg-22) and [ITSG-38.](https://cyber.gc.ca/en/guidance/network-security-zoning-design-considerations-placement-services-within-zones-itsg-38). Implement increased levels of protection for management interfaces.
+* [ ] Develop a target network security design that considers segmentation via network security zones, in alignment with [ITSG-22](https://cyber.gc.ca/en/guidance/baseline-security-requirements-network-security-zones-government-canada-itsg-22) and [ITSG-38.](https://cyber.gc.ca/en/guidance/network-security-zoning-design-considerations-placement-services-within-zones-itsg-38). 
+* [ ] Implement increased levels of protection for management interfaces.
 
 ## Validation
 
