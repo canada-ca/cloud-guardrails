@@ -1,10 +1,29 @@
 # GC Cloud Guardrails
 
-This project will host the minimum guardrails as part of the GC Cloud Operationalization Framework. 
+This project will host the minimum guardrails as part of the GC Cloud Operationalization Framework. The users of this project will be Government of Canada employees deploying cloud-based workloads.
 
-These guardrails enable the GC's Cloud First direction and support for the GC Digital Standards.
+## Purpose
 
-The users of this project will be Government of Canada employees deploying cloud-based workloads.
+The purpose of the guardrails is to ensure that departments and agencies are implementing a preliminary baseline set of controls within their cloud-based environments. 
+
+## Summary
+
+A summary of the cloud guardrails are identified in the table below:
+
+| ID. | Guardrail |
+| --- | --- |
+| 1 | Protect Root / Global Admins Account |
+| 2 | Management of Administrative Privileges |
+| 3 | Cloud Console Access (Developers/Application Owners) |
+| 4 | Enterprise Monitoring Accounts |
+| 5 | Data location |
+| 6 | Protection of data-at-rest |
+| 7 | Protection of data-in-transit |
+| 8 | Network segmentation |
+| 9 | Network Security Services |
+| 10 | Cyber Defensive Services |
+| 11 | Logging and monitoring |
+| 12 | Configuration of Cloud Marketplaces |
 
 ## How to Contribute
 
