@@ -21,7 +21,7 @@ A summary of the cloud guardrails are identified in the table below:
 | 7 | Protection of data-in-transit |
 | 8 | Network segmentation |
 | 9 | Network Security Services |
-| 10 | Cyber Defensive Services |
+| 10 | Cyber Defense Services |
 | 11 | Logging and monitoring |
 | 12 | Configuration of Cloud Marketplaces |
 
