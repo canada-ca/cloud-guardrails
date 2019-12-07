@@ -13,7 +13,7 @@ A summary of the cloud guardrails are identified in the table below:
 | ID. | Guardrail |
 | --- | --- |
 | 1 | [Protect Root / Global Admins Account](https://github.com/canada-ca/cloud-guardrails/blob/master/EN/1_Protect-Root-Account.MD) |
-| 2 | Management of Administrative Privileges |
+| 2 | [Management of Administrative Privileges] (https://github.com/canada-ca/cloud-guardrails/blob/master/EN/2_Management-Admin-Privileges.MD) |
 | 3 | Cloud Console Access (Developers/Application Owners) |
 | 4 | Enterprise Monitoring Accounts |
 | 5 | Data location |
