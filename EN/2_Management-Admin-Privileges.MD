@@ -10,7 +10,8 @@ Establish access control policies and procedures for management of administrativ
 * [ ] Implement a mechanism for enforcing access authorizations.
 * [ ] Implement a mechanism for uniquely identifying and authenticating organizational users, non-organizational users (if applicable), and processes (for example, username and password).
 * [ ] Implement a multi-factor authentication mechanism for privileged accounts (for example, username, password and one-time password) and for external facing interfaces.
-* [ ] Change default passwords.☐Ensure that no custom subscription owner roles are created.
+* [ ] Change default passwords.
+* [ ] Ensure that no custom subscription owner roles are created.
 * [ ] Configure password policy in accordance with [GC Password Guidance](https://www.canada.ca/en/government/system/digital-government/password-guidance.html).
 * [ ] Minimize number of guest users; add only if needed.
 * [ ] Determine access restrictions and configuration requirements for GC-issued endpoint devices, including those of non-privileged and privileged users, and configure access restrictions for endpoint devices accordingly. 
