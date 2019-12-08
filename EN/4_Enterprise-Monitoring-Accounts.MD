@@ -6,7 +6,8 @@ Create role-based account to enable enterprise monitoring and visibility.
 
 ## Key Considerations
 
-* [ ] Assign roles to approved GC stakeholders to enable enterprise visibility. Roles include billing reader, policy contributor/reader, security reader, and global reader.☐ Ensure that multi-factor authentication mechanism for enterprise monitoring accounts is enabled.
+* [ ] Assign roles to approved GC stakeholders to enable enterprise visibility. Roles include billing reader, policy contributor/reader, security reader, and global reader.
+* [ ] Ensure that multi-factor authentication mechanism for enterprise monitoring accounts is enabled.
 
 ## Validation
 
