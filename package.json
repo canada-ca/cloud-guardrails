@@ -1,0 +1,28 @@
+{
+  "name": "cloud-guardrails",
+  "version": "1.0.0",
+  "private": true,
+  "description": "This project will host the minimum guardrails as part of the GC Cloud Operationalization Framework. The users of this project will be Government of Canada employees deploying cloud-based workloads.",
+  "main": "index.js",
+  "scripts": {
+    "link-check": "node link-check.js",
+    "lint": "markdownlint -i node_modules \"**/*.md\"",
+    "test": "npm run lint && npm run link-check"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/canada-ca/cloud-guardrails.git"
+  },
+  "keywords": [],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/canada-ca/cloud-guardrails/issues"
+  },
+  "homepage": "https://github.com/canada-ca/cloud-guardrails#readme",
+  "devDependencies": {
+    "chalk": "^3.0.0",
+    "glob": "^7.1.6",
+    "markdown-link-check": "^3.8.0",
+    "markdownlint-cli": "^0.19.0"
+  }
+}
