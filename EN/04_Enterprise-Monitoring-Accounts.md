@@ -14,6 +14,10 @@ Create role-based account to enable enterprise monitoring and visibility.
 * [ ] Confirm presence of GC enterprise role-based accounts created by Department for GC approved stakeholders.
 * [ ] Confirm that accounts have appropriate read access to Departmental tenant environment.
 
+## Applicable Service Models
+
+* IaaS, PaaS, SaaS
+
 ## References
 
 1. [SPIN 2017-01](https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/security-identity-management/direction-secure-use-commercial-cloud-services-spin.html), subsection 6.2.3
