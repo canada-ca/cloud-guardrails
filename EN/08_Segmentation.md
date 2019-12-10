@@ -13,6 +13,10 @@ Segment and separate information based on sensitivity of information.
 
 * [ ] Confirm that department has a target network architecture diagram with appropriate segmentation between network zones.
 
+## Applicable Service Models
+
+* IaaS, PaaS
+
 ## References
 
 1. [SPIN 2017-01](https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/security-identity-management/direction-secure-use-commercial-cloud-services-spin.html), subsection 6.2.4
