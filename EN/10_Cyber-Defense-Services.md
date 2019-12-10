@@ -15,7 +15,7 @@ Establish MOU for defensive services and threat monitoring protection services.
 
 ## Applicable Service Models
 
-* IaaS, PaaS, SaaS (GC-approved)
+* IaaS, PaaS, SaaS
 
 ## References
 
