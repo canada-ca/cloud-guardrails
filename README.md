@@ -14,18 +14,18 @@ A summary of the cloud guardrails to be implemented in the initial phase are ide
 
 | ID. | Guardrail |
 | --- | --- |
-| 1 | [Protect root / global admins account](https://github.com/canada-ca/cloud-guardrails/blob/master/EN/1_Protect-Root-Account.MD) |
-| 2 | [Management of administrative privileges](https://github.com/canada-ca/cloud-guardrails/blob/master/EN/2_Management-Admin-Privileges.MD) |
-| 3 | [Cloud console access](https://github.com/canada-ca/cloud-guardrails/blob/master/EN/3_Cloud-Console-Access.MD) |
-| 4 | [Enterprise monitoring accounts](https://github.com/canada-ca/cloud-guardrails/blob/master/EN/4_Enterprise-Monitoring-Accounts.MD) |
-| 5 | [Data location](https://github.com/canada-ca/cloud-guardrails/blob/master/EN/5_Data-Location.MD) |
-| 6 | [Protection of data-at-rest](https://github.com/canada-ca/cloud-guardrails/blob/master/EN/6_Protect-Data-at-Rest.MD) |
-| 7 | [Protection of data-in-transit](https://github.com/canada-ca/cloud-guardrails/blob/master/EN/7_Protect-Data-in-Transit.MD) |
-| 8 | [Segment and separate](https://github.com/canada-ca/cloud-guardrails/blob/master/EN/8_Segmentation.MD) |
-| 9 | [Network security services](https://github.com/canada-ca/cloud-guardrails/blob/master/EN/9_Network-Security-Services.MD) |
-| 10 | [Cyber defense services](https://github.com/canada-ca/cloud-guardrails/blob/master/EN/10_Cyber-Defense-Services.MD) |
-| 11 | [Logging and monitoring](https://github.com/canada-ca/cloud-guardrails/blob/master/EN/11_Logging%20and%20Monitoring.MD) |
-| 12 | [Configuration of cloud marketplaces](https://github.com/canada-ca/cloud-guardrails/blob/master/EN/12_Cloud-Marketplace-Config.MD) |
+| 01 | [Protect root / global admins account](EN/01_Protect-Root-Account.md) |
+| 02 | [Management of administrative privileges](EN/02_Management-Admin-Privileges.md) |
+| 03 | [Cloud console access](EN/03_Cloud-Console-Access.md) |
+| 04 | [Enterprise monitoring accounts](EN/04_Enterprise-Monitoring-Accounts.md) |
+| 05 | [Data location](EN/05_Data-Location.md) |
+| 06 | [Protection of data-at-rest](EN/06_Protect-Data-at-Rest.md) |
+| 07 | [Protection of data-in-transit](EN/07_Protect-Data-in-Transit.md) |
+| 08 | [Segment and separate](EN/08_Segmentation.md) |
+| 09 | [Network security services](EN/09_Network-Security-Services.md) |
+| 10 | [Cyber defense services](EN/10_Cyber-Defense-Services.md) |
+| 11 | [Logging and monitoring](EN/11_Logging-and-Monitoring.md) |
+| 12 | [Configuration of cloud marketplaces](EN/12_Cloud-Marketplace-Config.md) |
 
 ## Post 30 Days
 
