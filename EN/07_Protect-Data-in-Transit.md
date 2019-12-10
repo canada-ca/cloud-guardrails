@@ -17,6 +17,10 @@ Protect data transiting networks through the use of appropriate encryption and n
 
 * [ ] Confirm policy for secure network transmission.
 
+## Applicable Service Models
+
+* IaaS, PaaS, SaaS
+
 ## References
 
 1. [SPIN 2017-01](https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/security-identity-management/direction-secure-use-commercial-cloud-services-spin.html), subsection 6.2.4
