@@ -17,6 +17,10 @@ Establish external and internal network perimeters and monitor network traffic.
 * [ ] Confirm policy for limiting number of public IPs.
 * [ ] Confirm policy for limiting to authorized source IP addresses (e.g. GC IP addresses).
 
+## Applicable Service Models
+
+* IaaS, PaaS, SaaS
+
 ## References
 
 1. [SPIN 2017-01](https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/security-identity-management/direction-secure-use-commercial-cloud-services-spin.html), subsection 6.2.4
