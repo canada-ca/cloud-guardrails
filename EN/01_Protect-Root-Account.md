@@ -2,7 +2,7 @@
 
 ## Objective
 
-Protect root or master account used to establish the cloud service. 
+Protect root or master account used to establish the cloud service.
 
 ## Key Considerations
 
@@ -15,11 +15,11 @@ Protect root or master account used to establish the cloud service.
 ## Validation
 
 * [ ] Confirm policy for MFA is enabled through screenshots and compliance reports.
-* [ ] Confirm that an attestation letter of the emergency break glass procedure has been signed by the Departmental CIO and CSO. 
+* [ ] Confirm that an attestation letter of the emergency break glass procedure has been signed by the Departmental CIO and CSO.
 
 ## Additional Considerations
 
-* [ ] Leverage enterprise services such as Administrative Access Control System (AACS) for Privileged Access Management (PAM), Attribute-based access control (ABAC). 
+* [ ] Leverage enterprise services such as Administrative Access Control System (AACS) for Privileged Access Management (PAM), Attribute-based access control (ABAC).
 
 ## Applicable Service Models
 
