@@ -22,6 +22,10 @@ Limit access to GC-approved IP addresses and authorized users.
 
 * [ ] Leverage enterprise services such as Administrative Access Control System (AACS) for Privileged Access Management (PAM), Attributed-based access control (ABAC).
 
+## Applicable Service Models
+
+* IaaS, PaaS, SaaS
+
 ## References
 
 1. [SPIN 2017-01](https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/security-identity-management/direction-secure-use-commercial-cloud-services-spin.html), subsection 6.2.3
