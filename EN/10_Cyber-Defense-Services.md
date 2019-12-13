@@ -11,7 +11,7 @@ Establish MOU for defensive services and threat monitoring protection services.
 
 ## Validation
 
-* [ ] Confirmation from CCCS that the MOU has been signed by the Department. 
+* [ ] Confirmation from CCCS that the MOU has been signed by the Department.
 
 ## Applicable Service Models
 

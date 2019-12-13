@@ -1,4 +1,6 @@
 {
   "ignorePatterns": [
+    "https://gcconnex.gc.ca/",
+    "https://intranet.canada.ca/"
   ]
 }

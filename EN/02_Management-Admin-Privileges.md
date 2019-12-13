@@ -14,7 +14,7 @@ Establish access control policies and procedures for management of administrativ
 * [ ] Ensure that no custom subscription owner roles are created.
 * [ ] Configure password policy in accordance with [GC Password Guidance](https://www.canada.ca/en/government/system/digital-government/password-guidance.html).
 * [ ] Minimize number of guest users; add only if needed.
-* [ ] Determine access restrictions and configuration requirements for GC-issued endpoint devices, including those of non-privileged and privileged users, and configure access restrictions for endpoint devices accordingly. 
+* [ ] Determine access restrictions and configuration requirements for GC-issued endpoint devices, including those of non-privileged and privileged users, and configure access restrictions for endpoint devices accordingly.
 **Note:** Some service providers may offer configuration options to restrict endpoint device access. Alternatively, organizational policy and procedural instruments can be implemented to restrict access. |
 
 ## Validation
@@ -25,7 +25,7 @@ Establish access control policies and procedures for management of administrativ
 
 ## Additional Considerations
 
-* [ ] Leverage enterprise services such as Administrative Access Control System (AACS) for Privileged Access Management (PAM), Attribute-based access control (ABAC). 
+* [ ] Leverage enterprise services such as Administrative Access Control System (AACS) for Privileged Access Management (PAM), Attribute-based access control (ABAC).
 
 ## Applicable Service Models
 
