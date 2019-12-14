@@ -6,8 +6,6 @@ This project will host the minimum guardrails as part of the GC Cloud Operationa
 
 The purpose of the guardrails is to ensure that departments and agencies are implementing a preliminary baseline set of controls within their cloud-based environments. These minimum guardrails are to be implemented within the GC-specified initial period (e.g. 30 days) upon receipt of an enrollment under the GC Cloud Services Framework Agreement.
 
-Departments
-
 ## Summary - Initial 30 Days
 
 A summary of the cloud guardrails to be implemented in the initial phase are identified in the table below:
