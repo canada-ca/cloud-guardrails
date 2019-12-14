@@ -15,13 +15,13 @@ Establish access control policies and procedures for management of administrativ
 * [ ] Configure password policy in accordance with [GC Password Guidance](https://www.canada.ca/en/government/system/digital-government/password-guidance.html).
 * [ ] Minimize number of guest users; add only if needed.
 * [ ] Determine access restrictions and configuration requirements for GC-issued endpoint devices, including those of non-privileged and privileged users, and configure access restrictions for endpoint devices accordingly.
-**Note:** Some service providers may offer configuration options to restrict endpoint device access. Alternatively, organizational policy and procedural instruments can be implemented to restrict access. |
+**Note:** Some service providers may offer configuration options to restrict endpoint device access. Alternatively, organizational policy and procedural instruments can be implemented to restrict access.
 
 ## Validation
 
 * [ ] Confirm policy for MFA is enabled through screenshots and compliance reports.
 * [ ] Confirm that a privileged account management plan and process has been documented.
-* [ ] Confirm password policy aligns with [GC Password Guidance](https://www.canada.ca/en/government/system/digital-government/password-guidance.html) as appropriate. |
+* [ ] Confirm password policy aligns with [GC Password Guidance](https://www.canada.ca/en/government/system/digital-government/password-guidance.html) as appropriate.
 
 ## Additional Considerations
 
