@@ -61,7 +61,7 @@ Un résumé des mesures de sécurité du nuage à mettre en œuvre au cours de l
 
 | ID. | Mesures de sécurité du nuage |
 | --- | --- |
-| 01 | [Protéger le compte racine ou des administrateurs généraux](FR/01_1.	Protéger-le-compte-racine.md) |
+| 01 | [Protéger le compte racine ou des administrateurs généraux](FR/01_Protéger-le-compte-racine.md) |
 | 02 | [Gestion des privilèges d’administration](FR/02_Gestion-des-privilèges-d’administration.md) |
 | 03 | [Accès à la console du nuage](FR/03_Accès-à-la-console-du-nuage.md) |
 | 04 | [Comptes de surveillance organisationnels](FR/04_Comptes-de-surveillance-organisationnels.md) |
