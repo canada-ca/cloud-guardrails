@@ -7,6 +7,7 @@
 ## Principales considérations
 
 * [ ] Signer un protocole d’entente avec le CCC.
+* [ ] Suivre les directives d’intégration.
 
 ## Validation
 
