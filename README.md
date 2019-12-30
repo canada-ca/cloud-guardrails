@@ -65,7 +65,7 @@ Un résumé des mesures de sécurité du nuage à mettre en œuvre au cours de l
 | 02 | [Gestion des privilèges d’administration](FR/02_Gestion-des-privilèges-d’administration.md) |
 | 03 | [Accès à la console du nuage](FR/03_Accès-à-la-console-du-nuage.md) |
 | 04 | [Comptes de surveillance organisationnels](FR/04_Comptes-de-surveillance-organisationnels.md) |
-| 05 | [Emplacement des données](FR/05_Emplacement-des-données.md) |
+| 05 | [Hébergement des données](FR/05_Hébergement-des-données.md) |
 | 06 | [Protection des données au repos](FR/06_Protection-des-données-au-repos.md) |
 | 07 | [Protection des données en transit](FR/07_Protection-des-données-en-transit.md) |
 | 08 | [Segmenter et séparer](FR/08_Segmenter.md) |
