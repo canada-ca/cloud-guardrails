@@ -47,7 +47,7 @@ The Canada wordmark and related graphics associated with this distribution are p
 ______________________
 
 <!-- markdownlint-disable MD024 MD025 -->
-# GC Barrières de sécurité du nuage
+# GC Mesures de sécurité du nuage
 
 TBD
 
