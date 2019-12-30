@@ -69,7 +69,7 @@ Un résumé des mesures de sécurité du nuage à mettre en œuvre au cours de l
 | 06 | [Protection des données au repos](FR/06_Protection-des-données-au-repos.md) |
 | 07 | [Protection des données en transit](FR/07_Protection-des-données-en-transit.md) |
 | 08 | [Segmenter et séparer](FR/08_Segmenter.md) |
-| 09 | [Services de sécurité du réseau] (FR/09_Services-de-sécurité-du-réseau.md) |
+| 09 | [Services de sécurité du réseau](FR/09_Services-de-sécurité-du-réseau.md) |
 | 10 | [Services de cyberdéfense](FR/10_Services-de-cyberdéfense.md) |
 | 11 | [Journalisation et surveillance](FR/11_Journalisation-et-surveillance.md) |
 | 12 | [Configuration des marchés de l’informatique en nuage](FR/12_Configuration-des-marchés.md) |
