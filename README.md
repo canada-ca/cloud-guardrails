@@ -49,30 +49,30 @@ ______________________
 <!-- markdownlint-disable MD024 MD025 -->
 # GC Mesures de sécurité du nuage
 
-Ce projet hébergera les garde-corps minimaux dans le cadre du cadre d’opérationnalisation de l’informatique en nuage du GC. Les utilisateurs de ce projet seront des employés du gouvernement du Canada qui déploieront des charges de travail en nuage.
+Ce projet hébergera les mesures de sécurité du nuage dans le cadre du cadre d’opérationnalisation de l’informatique en nuage du GC. Les utilisateurs de ce projet seront des employés du gouvernement du Canada qui déploieront des charges de travail en nuage.
 
 ## Objet
 
 Le présent projet met l’accent sur un ensemble préliminaire de mesures de sécurité de base pour veiller à ce que l’environnement des services d’informatique en nuage ait un ensemble minimal de configurations pour l’environnement de l’informatique en nuage. Cette section décrit un ensemble de mesures de sécurité minimales qui font partie du cadre de mise en œuvre du GC. Le tableau suivant décrit les principales mesures de sécurité qui doivent être activées au cours de la période initiale indiquée par le GC (p. ex., 30 jours). 
 
-## Sommaire - 30 premiers jours
+## Résumé - 30 premiers jours
 
-A summary of the cloud guardrails to be implemented in the initial phase are identified in the table below:
+Un résumé des mesures de sécurité du nuage à mettre en œuvre au cours de la phase initiale est présenté dans le tableau ci-dessous :
 
 | ID. | Mesures de sécurité du nuage |
 | --- | --- |
-| 01 | [Protect root / global admins account](EN/01_Protect-Root-Account.md) |
-| 02 | [Management of administrative privileges](EN/02_Management-Admin-Privileges.md) |
-| 03 | [Cloud console access](EN/03_Cloud-Console-Access.md) |
-| 04 | [Enterprise monitoring accounts](EN/04_Enterprise-Monitoring-Accounts.md) |
-| 05 | [Data location](EN/05_Data-Location.md) |
-| 06 | [Protection of data-at-rest](EN/06_Protect-Data-at-Rest.md) |
-| 07 | [Protection of data-in-transit](EN/07_Protect-Data-in-Transit.md) |
-| 08 | [Segment and separate](EN/08_Segmentation.md) |
-| 09 | [Network security services](EN/09_Network-Security-Services.md) |
-| 10 | [Cyber defense services](EN/10_Cyber-Defense-Services.md) |
-| 11 | [Logging and monitoring](EN/11_Logging-and-Monitoring.md) |
-| 12 | [Configuration of cloud marketplaces](EN/12_Cloud-Marketplace-Config.md) |
+| 01 | [Protéger le compte racine ou des administrateurs généraux](FR/01_1.	Protéger-le-compte-racine.md) |
+| 02 | [Gestion des privilèges d’administration](FR/02_Gestion-des-privilèges-d’administration.md) |
+| 03 | [Accès à la console du nuage](FR/03_Accès-à-la-console-du-nuage.md) |
+| 04 | [Comptes de surveillance organisationnels](FR/04_Comptes-de-surveillance-organisationnels.md) |
+| 05 | [Emplacement des données](FR/05_Emplacement-des-données.md) |
+| 06 | [Protection des données au repos](FR/06_Protection-des-données-au-repos.md) |
+| 07 | [Protection des données en transit](FR/07_Protection-des-données-en-transit.md) |
+| 08 | [Segmenter et séparer](FR/08_Segmenter.md) |
+| 09 | [Services de sécurité du réseau] (FR/09_Services-de-sécurité-du-réseau.md) |
+| 10 | [Services de cyberdéfense](FR/10_Services-de-cyberdéfense.md) |
+| 11 | [Journalisation et surveillance](FR/11_Journalisation-et-surveillance.md) |
+| 12 | [Configuration des marchés de l’informatique en nuage](FR/12_Configuration-des-marchés.md) |
 
 ## Post 30 Days
 
