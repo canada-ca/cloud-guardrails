@@ -19,7 +19,7 @@ Remarque : Vous pourriez devoir configurer votre solution pour envoyer les journ
 
 * [ ] Confirmer que la stratégie de journalisation des événements est mise en œuvre.
 * [ ] Confirmer la production des journaux d’événements.
-* [ ] Confirmez que les coordonnées de sécurité ont été configurées pour recevoir des alertes et des notifications. 
+* [ ] Confirmez que les coordonnées de sécurité ont été configurées pour recevoir des alertes et des notifications.
 
 ## Modèles de service applicables
 
