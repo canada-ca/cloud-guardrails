@@ -14,15 +14,15 @@
 * [ ] Veiller à ce qu’aucun rôle de propriétaire d’abonnement personnalisé ne soit créé.
 * [ ] Configurez la stratégie de mot de passe conformément à [l’Orientation sur les mots de passe du GC](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/orientation-sur-mots-passe.html).
 * [ ] Réduire au minimum le nombre d’utilisateurs invités; ajouter uniquement au besoin.
-* [ ] Déterminer les exigences en matière de restrictions et de configuration d’accès pour les appareils de point d’extrémité attribués par le GC, y compris ceux des utilisateurs privilégiés et non privilégiés, et configurer en conséquence les restrictions d’accès pour les appareils de point d’extrémité. 
+* [ ] Déterminer les exigences en matière de restrictions et de configuration d’accès pour les appareils de point d’extrémité attribués par le GC, y compris ceux des utilisateurs privilégiés et non privilégiés, et configurer en conséquence les restrictions d’accès pour les appareils de point d’extrémité.
 
 Remarque : Certains fournisseurs de services peuvent offrir des options de configuration afin de restreindre l’accès des appareils de point d’extrémité. Il serait également possible de mettre en œuvre des politiques organisationnelles et des instruments procéduraux afin de restreindre l’accès.
 
 ## Validation
 
-* [ ] Confirmer que la stratégie de MFA est activée au moyen des captures d’écran et des rapports de conformité. 
+* [ ] Confirmer que la stratégie de MFA est activée au moyen des captures d’écran et des rapports de conformité.
 * [ ] Confirmer qu’un plan et un processus de gestion des comptes privilégiés ont été consignés.
-* [ ] Confirmer que la stratégie de mot de passe respecte [l’Orientation sur les mots de passe du GC](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/orientation-sur-mots-passe.html), le cas échéant. 
+* [ ] Confirmer que la stratégie de mot de passe respecte [l’Orientation sur les mots de passe du GC](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/orientation-sur-mots-passe.html), le cas échéant.
 
 ## Autres considérations
 

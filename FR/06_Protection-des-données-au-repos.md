@@ -22,6 +22,6 @@ Protéger les données au repos par défaut (p. ex., stockage) pour les charges 
 ## Références
 
 1. [AMOPS 2017-01](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/technologiques-modernes-nouveaux/orientation-utilisation-securisee-services-commerciaux-informatique-nuage-amops.html), section 6.2.4
-2. Consulter les conseils en matière de cryptographie les protocoles [ITSP.40.111](https://cyber.gc.ca/fr/orientation/algorithmes-cryptographiques-pour-linformation-non-classifie-protege-et-protege-b) et [ITSP.40.062](https://cyber.gc.ca/fr/orientation/conseils-sur-la-configuration-securisee-des-protocoles-reseau-itsp40062). 
+2. Consulter les conseils en matière de cryptographie les protocoles [ITSP.40.111](https://cyber.gc.ca/fr/orientation/algorithmes-cryptographiques-pour-linformation-non-classifie-protege-et-protege-b) et [ITSP.40.062](https://cyber.gc.ca/fr/orientation/conseils-sur-la-configuration-securisee-des-protocoles-reseau-itsp40062).
 3. Consulter l’orientation dans les [Considérations relatives à l’utilisation de la cryptographie dans les services d’informatique en nuage commerciaux](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/technologiques-modernes-nouveaux/services-informatique-nuage/consideration-utilisation-de-la-crrptographie-dans-les-services-informatique-en-nauge.html).
 4. Mesures de sécurité connexes : SC-12, SC-13, SC-17, SC-28, SC-28(1).

@@ -1,4 +1,4 @@
-# Accès à la console du nuage 
+# Accès à la console du nuage
 
 ## Objectif
 
@@ -7,16 +7,16 @@ Limiter l’accès aux adresses IP approuvées du GC et aux utilisateurs autoris
 ## Principales considérations
 
 * [ ] Mettre en œuvre un mécanisme d’authentification multifacteur pour les comptes privilégiés et l’accès au réseau à distance (nuage).
-* [ ] Déterminer les exigences en matière de restrictions et de configuration d’accès pour les appareils de point d’extrémité attribués par le GC, y compris ceux des utilisateurs privilégiés et non privilégiés, et configurer en conséquence les restrictions d’accès pour les appareils de point d’extrémité. 
+* [ ] Déterminer les exigences en matière de restrictions et de configuration d’accès pour les appareils de point d’extrémité attribués par le GC, y compris ceux des utilisateurs privilégiés et non privilégiés, et configurer en conséquence les restrictions d’accès pour les appareils de point d’extrémité.
 
 Remarque : Certains fournisseurs de services peuvent offrir des options de configuration afin de restreindre l’accès des dispositifs de point d’extrémité. Il serait également possible de mettre en œuvre des politiques organisationnelles et des instruments procéduraux afin de restreindre l’accès.
 
-* [ ] Mettre en œuvre un mécanisme pour l’application des autorisations d’accès. 
+* [ ] Mettre en œuvre un mécanisme pour l’application des autorisations d’accès.
 * [ ] Mettre en place des mécanismes de protection par mot de passe pour se protéger contre les attaques par force brute des mots de passe.
 
 ## Validation
 
-* [ ] Confirmer que la stratégie de MFA est activée au moyen des captures d’écran et des rapports de conformité. 
+* [ ] Confirmer que la stratégie de MFA est activée au moyen des captures d’écran et des rapports de conformité.
 
 ## Autres considérations
 

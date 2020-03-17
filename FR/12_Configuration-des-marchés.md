@@ -1,4 +1,4 @@
-# 12.	Configuration des marchés de l’informatique en nuage
+# 12. Configuration des marchés de l’informatique en nuage
 
 ## Objectif
 
