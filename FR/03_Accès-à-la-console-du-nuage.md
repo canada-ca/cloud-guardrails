@@ -2,7 +2,7 @@
 
 ## Objectif
 
-Limiter l’accès aux adresses IP approuvées du GC et aux utilisateurs autorisés (p. ex., les développeurs, propriétaires d’applications, etc.).
+Limiter l’accès pour les appareils de point d’extrémité attribués par le GC et aux utilisateurs autorisés (p. ex., les développeurs, propriétaires d’applications, etc.).
 
 ## Principales considérations
 
@@ -11,6 +11,7 @@ Limiter l’accès aux adresses IP approuvées du GC et aux utilisateurs autoris
 
 Remarque : Certains fournisseurs de services peuvent offrir des options de configuration afin de restreindre l’accès des dispositifs de point d’extrémité. Il serait également possible de mettre en œuvre des politiques organisationnelles et des instruments procéduraux afin de restreindre l’accès.
 
+* [ ] Veiller à ce que les mesures administratives soient prises par les utilisateurs autorisés à l’aide d’un dispositif de confiance connecté à un réseau de confiance (p. ex., réseau du GC).
 * [ ] Mettre en œuvre un mécanisme pour l’application des autorisations d’accès.
 * [ ] Mettre en place des mécanismes de protection par mot de passe pour se protéger contre les attaques par force brute des mots de passe.
 
