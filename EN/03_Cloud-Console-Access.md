@@ -2,15 +2,16 @@
 
 ## Objective
 
-Limit access to GC-approved IP addresses and authorized users.
+Limit access to GC managed devices and authorized users.
 
 ## Key Considerations
 
 * [ ] Implement multi-factor authentication mechanism for privileged accounts and remote network (cloud) access.
-* [ ] Determine access restrictions and configuration requirements for GC-issued endpoint devices, including those of non-privileged and privileged users, and configure access restrictions for endpoint devices accordingly.
+* [ ] Determine access restrictions and configuration requirements for GC managed devices, including those of non-privileged and privileged users, and configure access restrictions for endpoint devices accordingly.
 
 **Note:** Some service providers may offer configuration options to restrict endpoint device access. Alternatively, organizational policy and procedural instruments can be implemented to restrict access.
 
+* [ ] Ensure that administrative actions are performed by authorized users using a trusted device that is connected to a trusted network (e.g. GC network).
 * [ ] Implement a mechanism for enforcing access authorizations.
 * [ ] Implement password protection mechanisms to protect against password brute force attacks.
 
