@@ -9,7 +9,7 @@ Establish external and internal network perimeters and monitor network traffic.
 * [ ] Ensure that egress/ingress points to and from GC cloud-based environments are managed and monitored. Use centrally provisioned network security services where available.
 * [ ] Implement network boundary protection mechanisms for all external facing interfaces that enforce a deny-all or allow-by-exception policy.
 * [ ] Perimeter security services such as boundary protection, intrusion prevention services, proxy services, TLS traffic inspection, etc. must be enabled based on risk profile, in alignment with GC Secure Connectivity Requirements and [ITSG-22](https://cyber.gc.ca/en/guidance/baseline-security-requirements-network-security-zones-government-canada-itsg-22) and [ITSG-38.](https://cyber.gc.ca/en/guidance/network-security-zoning-design-considerations-placement-services-within-zones-itsg-38).
-* [ ] Access to Cloud storage shall be limited to authorized source IP addresses only (generally GC only).
+* [ ] Ensure that access to cloud storage services is protected and restricted to authorized users and services.
 
 ## Validation
 
