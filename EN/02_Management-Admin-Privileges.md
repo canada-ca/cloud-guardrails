@@ -25,7 +25,7 @@ Establish access control policies and procedures for management of administrativ
 
 ## Additional Considerations
 
-* [ ] Leverage enterprise services such as Administrative Access Control System (AACS) for Privileged Access Management (PAM), Attribute-based access control (ABAC).
+* [ ] Leverage enterprise services such as Administrative Access Controls Service (AACS) for Privileged Access Management (PAM), Attribute-based access control (ABAC).
 
 ## Applicable Service Models
 
