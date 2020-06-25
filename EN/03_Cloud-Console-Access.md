@@ -11,7 +11,7 @@ Limit access to GC managed devices and authorized users.
 
 **Note:** Some service providers may offer configuration options to restrict endpoint device access. Alternatively, organizational policy and procedural instruments can be implemented to restrict access.
 
-* [ ] Ensure that administrative actions are performed by authorized users following a process approved by Chief Security Officer (CSO) (or delegate) and designated official for cyber security. This process should incorporate a risk-based conditional access control policy with appropriate logging and monitoring enabled.
+* [ ] Ensure that administrative actions are performed by authorized users following a process approved by Chief Security Officer (CSO) (or delegate) and designated official for cyber security. This process should incorporate the use of a trusted device and a risk-based conditional access control policy with appropriate logging and monitoring enabled.
 * [ ] Implement a mechanism for enforcing access authorizations.
 * [ ] Implement password protection mechanisms to protect against password brute force attacks.
 
