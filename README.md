@@ -26,7 +26,7 @@ The purpose of the guardrails is to ensure that departments and agencies are imp
 
 A summary of the cloud guardrails to be implemented in the initial phase are identified in the table below:
 
-| ID 	| Cloud Guardrails 	| Applicable Service Model 	| Profile 1 - Experimentation/Sandbox 	| Profile 2 - Non-sensitive cloud-based services 	| Profile 3 - Sensitive (up to PB) cloud-based services 	| Profile 4 - Sensitive (up to PB) cloud-based services for GC-wide SaaS solutions 	| Profile 5 - GC to GC only (Hybrid IT- Extension of GC Data Centers) 	| Profile 6 - Cloud-based Service Accessible to External users (Connections to GC Data centers required) 	|
+| ID 	| Cloud Guardrails 	| Applicable Service Model 	| Profile 1 - Experimentation/Sandbox 	| Profile 2 - Non-sensitive cloud-based services 	| Profile 3 - Sensitive (up to PB) cloud-based services 	| Profile 4-Sensitive (up to PB) cloud-based services for GC-wide SaaS solutions 	| Profile 5 - GC to GC only (Hybrid IT- Extension of GC Data Centers) 	| Profile 6 - Cloud-based Service Accessible to External users (Connections to GC Data centers required) 	|
 |-	|-	|-	|-	|-	|-	|-	|-	|-	|
 | 01 	| [Protect root / global admins account](EN/01_Protect-Root-Account.md) 	| IaaS, PaaS, SaaS 	| Required 	| Required 	| Required 	| Required 	| Required 	| Required 	|
 | 02 	| [Management of administrative privileges](EN/02_Management-Admin-Privileges.md) 	| IaaS, PaaS, SaaS 	| Required 	| Required 	| Required 	| Required 	| Required 	| Required 	|
