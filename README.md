@@ -19,6 +19,9 @@ The purpose of the guardrails is to ensure that departments and agencies are imp
 
 
 
+![Cloud Usage Profile](https://github.com/greggoryelton/cloud-guardrails/blob/patch-1/Cloud_Usage_Profile_Diagram.png?raw=true)
+
+
 ## Summary - Initial 30 Days
 
 A summary of the cloud guardrails to be implemented in the initial phase are identified in the table below:
