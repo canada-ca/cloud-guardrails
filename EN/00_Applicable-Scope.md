@@ -17,16 +17,16 @@ The following table outlines the applicability of the guardrails to the cloud us
 
 | ID 	| Cloud Guardrails 	| Applicable Service Model 	| Profile 1 - Experimentation/Sandbox 	| Profile 2 - Non-sensitive cloud-based services 	| Profile 3 - Sensitive (up to PB) cloud-based services 	| Profile 4-Sensitive (up to PB) cloud-based services for GC-wide SaaS solutions 	| Profile 5 - GC to GC only (Hybrid IT- Extension of GC Data Centers) 	| Profile 6 - Cloud-based Service Accessible to External users (Connections to GC Data centers required) 	|
 |-	|-	|-	|-	|-	|-	|-	|-	|-	|
-| 01 	| [Protect root / global admins account](EN/01_Protect-Root-Account.md) 	| IaaS, PaaS, SaaS 	| Required 	| Required 	| Required 	| Required 	| Required 	| Required 	|
-| 02 	| [Management of administrative privileges](EN/02_Management-Admin-Privileges.md) 	| IaaS, PaaS, SaaS 	| Required 	| Required 	| Required 	| Required 	| Required 	| Required 	|
-| 03 	| [Cloud console access](EN/03_Cloud-Console-Access.md)  	| IaaS, PaaS, SaaS 	| Recommended 	| Required 	| Required 	| Required 	| Required 	| Required 	|
-| 04 	| [Enterprise monitoring accounts](EN/04_Enterprise-Monitoring-Accounts.md) 	| IaaS, PaaS, SaaS 	| Required (for billing) 	| Required 	| Required 	| Required 	| Required 	| Required 	|
-| 05 	| [Data location](EN/05_Data-Location.md) 	| IaaS, PaaS, SaaS 	| Recommended 	| Recommended 	| Required (in Canada for GC storage of PB and above) 	| Required (in Canada for GC storage of PB and above) 	| Required (in Canada for GC storage of PB and above) 	| Required (in Canada for GC storage of PB and above) 	|
-| 06 	| [Protection of data-at-rest](EN/06_Protect-Data-at-Rest.md) 	| IaaS, PaaS, SaaS 	| Not Required 	| Recommended 	| Required 	| Required 	| Required 	| Required 	|
-| 07 	| [Protection of data-in-transit](EN/07_Protect-Data-in-Transit.md) 	| IaaS, PaaS, SaaS 	| Recommended 	| Required 	| Required 	| Required 	| Required 	| Required 	|
-| 08 	| [Segment and separate](EN/08_Segmentation.md) 	| IaaS, PaaS 	| Required (network filtering at a minimum) 	| Required 	| Required 	| Required 	| Required 	| Required 	|
-| 09 	| [Network security services](EN/09_Network-Security-Services.md) 	| IaaS, PaaS, SaaS 	| Recommended 	| Required 	| Required 	| Required (Restrict to GC only) 	| Required (Deny External Access policy - GC only) 	| Required 	|
-| 10 	| [Cyber defense services](EN/10_Cyber-Defense-Services.md) 	| IaaS, PaaS, SaaS 	| Not Required 	| Required 	| Required 	| Required 	| Required 	| Required 	|
-| 11 	| [Logging and monitoring](EN/11_Logging-and-Monitoring.md)  	| IaaS, PaaS, SaaS 	| Recommended 	| Required 	| Required 	| Required 	| Required 	| Required 	|
-| 12 	| [Configuration of cloud marketplaces](EN/12_Cloud-Marketplace-Config.md) 	| IaaS, PaaS, SaaS 	| Required 	| Required 	| Required 	| Required 	| Required 	| Required 	|
+| 01 	| [Protect root / global admins account](01_Protect-Root-Account.md) 	| IaaS, PaaS, SaaS 	| Required 	| Required 	| Required 	| Required 	| Required 	| Required 	|
+| 02 	| [Management of administrative privileges](02_Management-Admin-Privileges.md) 	| IaaS, PaaS, SaaS 	| Required 	| Required 	| Required 	| Required 	| Required 	| Required 	|
+| 03 	| [Cloud console access](03_Cloud-Console-Access.md)  	| IaaS, PaaS, SaaS 	| Recommended 	| Required 	| Required 	| Required 	| Required 	| Required 	|
+| 04 	| [Enterprise monitoring accounts](04_Enterprise-Monitoring-Accounts.md) 	| IaaS, PaaS, SaaS 	| Required (for billing) 	| Required 	| Required 	| Required 	| Required 	| Required 	|
+| 05 	| [Data location](05_Data-Location.md) 	| IaaS, PaaS, SaaS 	| Recommended 	| Recommended 	| Required (in Canada for GC storage of PB and above) 	| Required (in Canada for GC storage of PB and above) 	| Required (in Canada for GC storage of PB and above) 	| Required (in Canada for GC storage of PB and above) 	|
+| 06 	| [Protection of data-at-rest](06_Protect-Data-at-Rest.md) 	| IaaS, PaaS, SaaS 	| Not Required 	| Recommended 	| Required 	| Required 	| Required 	| Required 	|
+| 07 	| [Protection of data-in-transit](07_Protect-Data-in-Transit.md) 	| IaaS, PaaS, SaaS 	| Recommended 	| Required 	| Required 	| Required 	| Required 	| Required 	|
+| 08 	| [Segment and separate](08_Segmentation.md) 	| IaaS, PaaS 	| Required (network filtering at a minimum) 	| Required 	| Required 	| Required 	| Required 	| Required 	|
+| 09 	| [Network security services](09_Network-Security-Services.md) 	| IaaS, PaaS, SaaS 	| Recommended 	| Required 	| Required 	| Required (Restrict to GC only) 	| Required (Deny External Access policy - GC only) 	| Required 	|
+| 10 	| [Cyber defense services](10_Cyber-Defense-Services.md) 	| IaaS, PaaS, SaaS 	| Not Required 	| Required 	| Required 	| Required 	| Required 	| Required 	|
+| 11 	| [Logging and monitoring](11_Logging-and-Monitoring.md)  	| IaaS, PaaS, SaaS 	| Recommended 	| Required 	| Required 	| Required 	| Required 	| Required 	|
+| 12 	| [Configuration of cloud marketplaces](12_Cloud-Marketplace-Config.md) 	| IaaS, PaaS, SaaS 	| Required 	| Required 	| Required 	| Required 	| Required 	| Required 	|
 
