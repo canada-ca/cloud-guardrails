@@ -6,6 +6,27 @@ This project will host the minimum guardrails as part of the GC Cloud Operationa
 
 The purpose of the guardrails is to ensure that departments and agencies are implementing a preliminary baseline set of controls within their cloud-based environments. These minimum guardrails are to be implemented within the GC-specified initial period (e.g. 30 days) upon receipt of an enrollment under the GC Cloud Services Framework Agreement.
 
+## Summary - Initial 30 Days
+
+A summary of the cloud guardrails to be implemented in the initial phase are identified in the table below:
+
+| ID 	| Cloud Guardrails 	| Applicable Service Model 	| Profile 1 - Experimentation/Sandbox 	| Profile 2 - Non-sensitive cloud-based services 	| Profile 3 - Sensitive (up to PB) cloud-based services 	| Profile 4-Sensitive (up to PB) cloud-based services for GC-wide SaaS solutions 	| Profile 5 - GC to GC only (Hybrid IT- Extension of GC Data Centers) 	| Profile 6 - Cloud-based Service Accessible to External users (Connections to GC Data centers required) 	|
+|-	|-	|-	|-	|-	|-	|-	|-	|-	|
+| 01 	| [Protect root / global admins account](EN/01_Protect-Root-Account.md) 	| IaaS, PaaS, SaaS 	| Required 	| Required 	| Required 	| Required 	| Required 	| Required 	|
+| 02 	| [Management of administrative privileges](EN/02_Management-Admin-Privileges.md) 	| IaaS, PaaS, SaaS 	| Required 	| Required 	| Required 	| Required 	| Required 	| Required 	|
+| 03 	| [Cloud console access](EN/03_Cloud-Console-Access.md)  	| IaaS, PaaS, SaaS 	| Recommended 	| Required 	| Required 	| Required 	| Required 	| Required 	|
+| 04 	| [Enterprise monitoring accounts](EN/04_Enterprise-Monitoring-Accounts.md) 	| IaaS, PaaS, SaaS 	| Required (for billing) 	| Required 	| Required 	| Required 	| Required 	| Required 	|
+| 05 	| [Data location](EN/05_Data-Location.md) 	| IaaS, PaaS, SaaS 	| Recommended 	| Recommended 	| Required (in Canada for GC storage of PB and above) 	| Required (in Canada for GC storage of PB and above) 	| Required (in Canada for GC storage of PB and above) 	| Required (in Canada for GC storage of PB and above) 	|
+| 06 	| [Protection of data-at-rest](EN/06_Protect-Data-at-Rest.md) 	| IaaS, PaaS, SaaS 	| Not Required 	| Recommended 	| Required 	| Required 	| Required 	| Required 	|
+| 07 	| [Protection of data-in-transit](EN/07_Protect-Data-in-Transit.md) 	| IaaS, PaaS, SaaS 	| Recommended 	| Required 	| Required 	| Required 	| Required 	| Required 	|
+| 08 	| [Segment and separate](EN/08_Segmentation.md) 	| IaaS, PaaS 	| Required (network filtering at a minimum) 	| Required 	| Required 	| Required 	| Required 	| Required 	|
+| 09 	| [Network security services](EN/09_Network-Security-Services.md) 	| IaaS, PaaS, SaaS 	| Recommended 	| Required 	| Required 	| Required (Restrict to GC only) 	| Required (Deny External Access policy - GC only) 	| Required 	|
+| 10 	| [Cyber defense services](EN/10_Cyber-Defense-Services.md) 	| IaaS, PaaS, SaaS 	| Not Required 	| Required 	| Required 	| Required 	| Required 	| Required 	|
+| 11 	| [Logging and monitoring](EN/11_Logging-and-Monitoring.md)  	| IaaS, PaaS, SaaS 	| Recommended 	| Required 	| Required 	| Required 	| Required 	| Required 	|
+| 12 	| [Configuration of cloud marketplaces](EN/12_Cloud-Marketplace-Config.md) 	| IaaS, PaaS, SaaS 	| Required 	| Required 	| Required 	| Required 	| Required 	| Required 	|
+
+#
+
 ## Cloud Usage Profiles 
 
 | Ref # 	| Profile 	| Characteristics 	| Applicable Service Model 	| Connection Type  	| In Scope for SCED? 	|
@@ -18,13 +39,11 @@ The purpose of the guardrails is to ensure that departments and agencies are imp
 | 6 	| Cloud-based services with External user access and interconnection to GC data centers 	| - Cloud-based services hosting sensitive (up to Protected B) information<br><br>- GC cloud-based systems required to interact with systems in GC data centers<br><br>- Environment accessible for both GC users and External users and services<br><br>- Solution implemented, managed and operated by a GC department/agency 	| IaaS, PaaS 	| Type 3 - CXP 	| SCED Objective #1 (Network) and #2 (Security via GC-CAP) 	|
 
 
-
 ![Cloud Usage Profile](https://github.com/greggoryelton/cloud-guardrails/blob/patch-1/Cloud_Usage_Profile_Diagram.png?raw=true)
 
+## Applicability of Guardrails to Cloud Usage Profiles
 
-## Summary - Initial 30 Days
-
-A summary of the cloud guardrails to be implemented in the initial phase are identified in the table below:
+The following table outlines the applicability of the guardrails to the cloud usage profiles. 
 
 | ID 	| Cloud Guardrails 	| Applicable Service Model 	| Profile 1 - Experimentation/Sandbox 	| Profile 2 - Non-sensitive cloud-based services 	| Profile 3 - Sensitive (up to PB) cloud-based services 	| Profile 4-Sensitive (up to PB) cloud-based services for GC-wide SaaS solutions 	| Profile 5 - GC to GC only (Hybrid IT- Extension of GC Data Centers) 	| Profile 6 - Cloud-based Service Accessible to External users (Connections to GC Data centers required) 	|
 |-	|-	|-	|-	|-	|-	|-	|-	|-	|
