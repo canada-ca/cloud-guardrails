@@ -76,6 +76,8 @@ Un résumé des mesures de sécurité du nuage à mettre en œuvre au cours de l
 | 11 | [Journalisation et surveillance](FR/11_Journalisation-et-surveillance.md) |
 | 12 | [Configuration des marchés de l’informatique en nuage](FR/12_Configuration-des-marchés.md) |
 
+La [portée applicable aux mesures de protection du nuage](FR/00_Portée-Applicable.md) est basée sur les profils de l’usage du nuage.
+
 ## Post 30 Days
 
 Les ministères devraient continuer à mettre en œuvre les exigences de sécurité énoncées dans les documents suivants :
