@@ -21,13 +21,11 @@ Le tableau suivant décrit l’applicabilité des garde-corps aux profils d’ut
 | 02 | [Gestion des privilèges administratifs](02_Gestion-des-privilèges-d’administration.md) | IaaS, PaaS, SaaS | Requis | Requis | Requis | Requis | Requis | Requis |
 | 03 | [Accès à la console en nuage](03_Accès-à-la-console-du-nuage.md) | IaaS, PaaS, SaaS | Recommandé 	| Requis 	| Requis 	| Requis | Requis | Requis |
 | 04 | [Comptes de surveillance organisationnelle](04_Comptes-de-surveillance-organisationnels.md) | IaaS, PaaS, SaaS | Requis (pour la facturation) | Requis 	| Requis | Requis | Requis | Requis |
-| 05 | [Emplacement des données](05_Hébergement-des-données.md) | IaaS, PaaS, SaaS | Recommandé | Recommandé | Requis (au Canada pour le stockage de documents Protégé B du GC et de niveau supérieur) | Requis 
-(au Canada pour le stockage de documents Protégé B du GC et de niveau supérieur) | Requis (au Canada pour le stockage de documents Protégé B du GC et de niveau supérieur) | Requis (au Canada pour le stockage de documents Protégé B du GC et de niveau supérieur) |
+| 05 | [Emplacement des données](05_Hébergement-des-données.md) | IaaS, PaaS, SaaS | Recommandé | Recommandé | Requis (au Canada pour le stockage de documents Protégé B du GC et de niveau supérieur) | Requis (au Canada pour le stockage de documents Protégé B du GC et de niveau supérieur) | Requis (au Canada pour le stockage de documents Protégé B du GC et de niveau supérieur) | Requis (au Canada pour le stockage de documents Protégé B du GC et de niveau supérieur) |
 | 06 | [Protection des données au repos](06_Protection-des-données-au-repos.md) | IaaS, PaaS, SaaS | Non requis | Recommandé | Requis | Requis | Requis | Requis |
 | 07 | [Protection des données en transit](07_Protection-des-données-en-transit.md) | IaaS, PaaS, SaaS | Recommandé | Requis | Requis | Requis | Requis | Requis |
 | 08 | [Segmenter et séparer](08_Segmenter.md) | IaaS, PaaS | Required (network filtering at a minimum) | Requis | Requis | Requis | Requis | Requis |
-| 09 | [Services de sécurité du réseau](09_Services-de-sécurité-du-réseau.md) | IaaS, PaaS, SaaS | Recommandé | Requis | Requis | Requis 
-(limité au GC uniquement) | Requis (Politique sur le déni d'accès externe – GC uniquement) | Requis |
+| 09 | [Services de sécurité du réseau](09_Services-de-sécurité-du-réseau.md) | IaaS, PaaS, SaaS | Recommandé | Requis | Requis | Requis (limité au GC uniquement) | Requis (Politique sur le déni d'accès externe – GC uniquement) | Requis |
 | 10 | [Services de cyberdéfense](10_Services-de-cyberdéfense.md) | IaaS, PaaS, SaaS | Non requis | Requis | Requis | Requis | Requis | Requis |
 | 11 | [Journalisation et surveillance](11_Journalisation-et-surveillance.md) | IaaS, PaaS, SaaS | Recommandé | Requis | Requis | Requis | Requis | Requis |
 | 12 | [CConfiguration des marchés de l’informatique en nuage](12_Configuration-des-marchés.md) | IaaS, PaaS, SaaS | Requis | Requis | Requis | Requis | Requis | Requis |
