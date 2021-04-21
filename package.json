@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/canada-ca/cloud-guardrails#readme",
   "devDependencies": {
-    "chalk": "^4.1.0",
+    "chalk": "^4.1.1",
     "glob": "^7.1.6",
     "markdown-link-check": "^3.8.5",
     "markdownlint-cli": "^0.27.1"
