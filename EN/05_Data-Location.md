@@ -6,7 +6,7 @@ Establish policies to restrict GC sensitive workloads to approved geographic loc
 
 ## Key Considerations
 
-* [ ] As per the Direction on Electronic Data Residency (ITPIN 2017-02), &quot;All sensitive electronic data under government control, that has been categorized as Protected B, Protected C or is Classified, will be stored in a GC-approved computing facility located within the geographic boundaries of Canada or within the premises of a GC department located abroad, such as a diplomatic or consular mission.&quot;
+* [ ] As per the Directive on Service and Digital &quot;Ensuring computing facilities located within the geographic boundaries of Canada or within the premises of a Government of Canada department located abroad, such as a diplomatic or consular mission, be identified and evaluated as a principal delivery option for all sensitive electronic information and data under government control that has been categorized as Protected B, Protected C or is Classified.&quot;
 
 ## Validation
 
@@ -18,5 +18,4 @@ Establish policies to restrict GC sensitive workloads to approved geographic loc
 
 ## References
 
-1. [SPIN 2017-01](https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/security-identity-management/direction-secure-use-commercial-cloud-services-spin.html), subsection 6.2.3
-2. [ITPIN 2017-02](https://www.canada.ca/en/government/system/digital-government/modern-emerging-technologies/direction-electronic-data-residency.html)
+1. [Directive on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32601), subsection 4.4.3.10
