@@ -7,7 +7,7 @@ Establish MOU for defensive services and threat monitoring protection services.
 ## Key Considerations
 
 * [ ] Sign an MOU with CCCS.
-* [ ] Follow onboarding guidance.
+* [ ] Implement cyber defense services where available.
 
 ## Validation
 
