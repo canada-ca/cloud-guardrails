@@ -1,4 +1,11 @@
 remote_theme: wet-boew/gcweb-jekyll
+global:
+  lang: en
+defaults:
+  - scope:
+      path: "" # Ensure it's applied to all pages
+    values:
+      layout: default
 plugins:
   - jekyll-titles-from-headings
 titles_from_headings:
