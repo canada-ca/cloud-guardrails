@@ -1,16 +1,16 @@
-# Hébergement des données
+# Emplacement des données
 
 ## Objectif
 
-Établir des stratégies pour limiter les charges de travail sensibles du GC aux emplacements géographiques approuvés.
+Établir des stratégies pour limiter les charges de travail sensibles du gouvernement du Canada (GC) aux emplacements géographiques approuvés.
 
 ## Principales considérations
 
-* [ ] Conformément à l’Orientation relative à la résidence des données électroniques (AMPTI 2017-02), « toutes les données électroniques sous le contrôle du gouvernement et qui sont classées Protégé B, C ou classifiées, soient stockées dans une installation informatique approuvée par le GC située à l’intérieur des frontières géographiques du Canada ou dans les locaux d’un ministère du GC situé à l’étranger, telle une mission diplomatique ou consulaire ».
+* Conformément à la Directive sur les services et le numérique, « Veiller à ce que les installations informatiques situées à l’intérieur des frontières géographiques du Canada ou dans des locaux à l’étranger appartenant à un ministère du gouvernement du Canada, telles qu’une mission diplomatique ou consulaire, soient considérées et évaluées en tant qu’option principale pour la prestation de services impliquant toute l’information et toutes les données électroniques délicates sous le contrôle du gouvernement qui est classée Protégé B, C ou Classifié ».
 
 ## Validation
 
-* [ ] Confirmer la stratégie et le balisage pour l’emplacement des données.
+* Confirmer la stratégie et le balisage pour l’emplacement des données.
 
 ## Modèles de service applicables
 
@@ -18,5 +18,4 @@
 
 ## Références
 
-1. [AMOPS 2017-01](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/technologiques-modernes-nouveaux/orientation-utilisation-securisee-services-commerciaux-informatique-nuage-amops.html), section 6.2.2
-2. [AMPTI 2017-02](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/technologiques-modernes-nouveaux/orientation-relative-residence-donnees-electroniques.html)
+1. [Directive sur les services et le numérique](https://www.tbs-sct.canada.ca/pol/doc-fra.aspx?id=32601), sous-section 4.4.3.10.
