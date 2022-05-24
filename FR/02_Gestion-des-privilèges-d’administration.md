@@ -1,5 +1,7 @@
 # Gestion des privilèges administratifs
 
+([Retourner](/README.md#résumé---30-premiers-jours))
+
 ## Objectif
 
 Établir des stratégies et des procédures de contrôle d’accès pour la gestion des privilèges administratifs.

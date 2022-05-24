@@ -1,5 +1,7 @@
 # 12. Configuration des marchés de l’informatique en nuage
 
+([Retourner](/README.md#résumé---30-premiers-jours))
+
 ## Objectif
 
 Restreindre les logiciels dans le marché des fournisseurs de services d’informatique en nuage tiers aux produits approuvés par le gouvernement du Canada (GC).

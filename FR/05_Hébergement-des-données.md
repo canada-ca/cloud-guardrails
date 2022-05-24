@@ -1,5 +1,7 @@
 # Emplacement des données
 
+([Retourner](/README.md#résumé---30-premiers-jours))
+
 ## Objectif
 
 Établir des stratégies pour limiter les charges de travail sensibles du gouvernement du Canada (GC) aux emplacements géographiques approuvés.

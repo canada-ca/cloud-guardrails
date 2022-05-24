@@ -1,5 +1,7 @@
 # Protection des données au repos
 
+([Retourner](/README.md#résumé---30-premiers-jours))
+
 ## Objectif
 
 Protéger les données au repos par défaut (p. ex., stockage) pour les charges de travail axées sur le nuage.

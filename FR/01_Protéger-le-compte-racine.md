@@ -1,5 +1,7 @@
 # Protéger le compte racine ou des administrateurs généraux
 
+([Retourner](/README.md#résumé---30-premiers-jours))
+
 ## Objectif
 
 Protéger le compte racine ou principal utilisé pour établir le service d’informatique en nuage.

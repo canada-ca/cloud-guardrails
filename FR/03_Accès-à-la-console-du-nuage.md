@@ -1,5 +1,7 @@
 # Accès à la console d’informatique en nuage
 
+([Retourner](/README.md#résumé---30-premiers-jours))
+
 ## Objectif
 
 Limiter l’accès aux appareils gérés par le gouvernement du Canada (GC) et aux utilisateurs autorisés.
