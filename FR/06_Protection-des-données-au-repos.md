@@ -1,6 +1,6 @@
 # Protection des données au repos
 
-([Retourner](/README.md#résumé---30-premiers-jours))
+([Retourner](../README.md))
 
 ## Objectif
 

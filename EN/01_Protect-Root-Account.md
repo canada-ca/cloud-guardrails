@@ -1,6 +1,6 @@
 # Protect Root / Global Admins Account
 
-([Back](/README.md#summary---initial-30-days))
+([Back](../README.md))
 
 ## Objective
 

@@ -1,6 +1,6 @@
 # 12. Configuration des marchés de l’informatique en nuage
 
-([Retourner](/README.md#résumé---30-premiers-jours))
+([Retourner](../README.md))
 
 ## Objectif
 

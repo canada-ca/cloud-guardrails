@@ -1,6 +1,6 @@
 ## Profil de l’usage du nuage
 
-([Retourner](/README.md#résumé---30-premiers-jours))
+([Retourner](../README.md))
 
 Un résumé des différents types d’utilisation du nuage est présenté dans la description du profil dans le tableau ci-dessous :
 

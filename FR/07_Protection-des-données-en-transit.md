@@ -1,6 +1,6 @@
 # Protection des données en transit
 
-([Retourner](/README.md#résumé---30-premiers-jours))
+([Retourner](../README.md))
 
 ## Objectif
 
