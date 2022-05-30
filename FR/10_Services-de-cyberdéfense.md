@@ -1,17 +1,19 @@
 # Services de cyberdéfense
 
+([Retourner](../README.md))
+
 ## Objectif
 
-Établir un protocole d’entente pour les services de défense et de surveillance des menaces.
+Établir un protocole d’entente (PE) pour les services de défense et de surveillance des menaces.
 
 ## Principales considérations
 
-* [ ] Signer un protocole d’entente avec le CCC.
-* [ ] Suivre les directives d’intégration.
+* Signer un PE avec le Centre canadien pour la cybersécurité (CCCS).
+* Mettre en œuvre des services de cyberdéfense lorsqu’ils sont disponibles.
 
 ## Validation
 
-* [ ] Confirmation par le CCC de la signature du PE par le ministère.
+* Confirmation par le CCCS de la signature du PE par le Ministère.
 
 ## Modèles de service applicables
 
@@ -19,5 +21,5 @@
 
 ## Références
 
-1. [AMOPS 2017-01](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/technologiques-modernes-nouveaux/orientation-utilisation-securisee-services-commerciaux-informatique-nuage-amops.html), section 6.3
+1. [AMOPS 2017-01](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/innovations-gouvernementales-numeriques/services-informatique-nuage/orientation-utilisation-securisee-services-commerciaux-informatique-nuage-amops.html), section 6.3
 2. Mesures de sécurité connexes : SI-2, SI-4

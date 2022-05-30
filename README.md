@@ -51,17 +51,17 @@ The Canada wordmark and related graphics associated with this distribution are p
 ______________________
 
 <!-- markdownlint-disable MD024 MD025 -->
-# GC Mesures de sécurité du nuage
+# Mesures de protection du nuage du GC
 
-Ce projet hébergera les mesures de sécurité du nuage dans le cadre du cadre d’opérationnalisation de l’informatique en nuage du GC. Les utilisateurs de ce projet seront des employés du gouvernement du Canada qui déploieront des charges de travail en nuage.
+Le présent projet héberge les mesures de protection minimales faisant partie du Cadre de mise en œuvre du nuage du gouvernement du Canada (GC). Les utilisateurs de ce projet seront les employés du gouvernement du Canada qui déploient des charges de travail en matière d’informatique en nuage.
 
 ## Objet
 
-Le présent projet met l’accent sur un ensemble préliminaire de mesures de sécurité de base pour veiller à ce que l’environnement des services d’informatique en nuage ait un ensemble minimal de configurations pour l’environnement de l’informatique en nuage. Cette section décrit un ensemble de mesures de sécurité minimales qui font partie du cadre de mise en œuvre du GC. Le tableau suivant décrit les principales mesures de sécurité qui doivent être activées au cours de la période initiale indiquée par le GC (p. ex., 30 jours).
+L’objectif des mesures de protection est de veiller à ce que les ministères et les organismes mettent en œuvre un ensemble de mesures préliminaire dans leur environnement d’informatique en nuage. Ces mesures de protection minimales doivent être mises en œuvre au cours de la période initiale précisée par le GC (p. ex., 30 jours) à la réception de l’inscription en vertu de l’accord-cadre sur les services d’informatique en nuage du GC.
 
 ## Résumé - 30 premiers jours
 
-Un résumé des mesures de sécurité du nuage à mettre en œuvre au cours de la phase initiale est présenté dans le tableau ci-dessous :
+Un résumé des mesures de protection du nuage à mettre en œuvre dans le cadre de la phase initiale est fourni dans le tableau ci-dessous.
 
 | ID. | Mesures de sécurité du nuage |
 | --- | --- |
@@ -69,7 +69,7 @@ Un résumé des mesures de sécurité du nuage à mettre en œuvre au cours de l
 | 02 | [Gestion des privilèges d’administration](FR/02_Gestion-des-privilèges-d’administration.md) |
 | 03 | [Accès à la console du nuage](FR/03_Accès-à-la-console-du-nuage.md) |
 | 04 | [Comptes de surveillance organisationnels](FR/04_Comptes-de-surveillance-organisationnels.md) |
-| 05 | [Hébergement des données](FR/05_Hébergement-des-données.md) |
+| 05 | [Emplacement des données](FR/05_Emplacement-des-données.md) |
 | 06 | [Protection des données au repos](FR/06_Protection-des-données-au-repos.md) |
 | 07 | [Protection des données en transit](FR/07_Protection-des-données-en-transit.md) |
 | 08 | [Segmenter et séparer](FR/08_Segmenter.md) |
@@ -78,23 +78,23 @@ Un résumé des mesures de sécurité du nuage à mettre en œuvre au cours de l
 | 11 | [Journalisation et surveillance](FR/11_Journalisation-et-surveillance.md) |
 | 12 | [Configuration des marchés de l’informatique en nuage](FR/12_Configuration-des-marchés.md) |
 
-La [portée applicable aux mesures de protection du nuage](FR/00_Portée-Applicable.md) est basée sur les profils de l’usage du nuage.
+La [portée applicable des mesures de protection](FR/00_Portée-Applicable.md) est fondée sur les profils d’utilisation du nuage.
 
-## Post 30 Days
+## Après 30 jours
 
-Les ministères devraient continuer à mettre en œuvre les exigences de sécurité énoncées dans les documents suivants :
+Les ministères devraient continuer à mettre en œuvre les exigences de sécurité énoncées dans les documents suivants :
 
-* [Orientation sur l’utilisation sécurisée des services commerciaux d’informatique en nuage : Avis de mise en œuvre de la Politique sur la sécurité (AMOPS)](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/innovations-gouvernementales-numeriques/services-informatique-nuage/orientation-utilisation-securisee-services-commerciaux-informatique-nuage-amops.html)
+* [Orientation sur l’utilisation sécurisée des services commerciaux d’informatique en nuage : Avis de mise en œuvre de la Politique sur la sécurité (AMOPS)](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/innovations-gouvernementales-numeriques/services-informatique-nuage/orientation-utilisation-securisee-services-commerciaux-informatique-nuage-amops.html)
 * [Profil des mesures de sécurité pour les services du GC fondés sur l’informatique en nuage](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/innovations-gouvernementales-numeriques/services-informatique-nuage/profil-controle-securite-services-ti-fondes-information-nuage.html)
 
-Les ministères devraient collaborer avec leurs équipes de gestion des risques de sécurité de la TI pour obtenir des conseils et une orientation sur l’intégration des activités d’évaluation et d’autorisation de la sécurité dans le cadre de la mise en œuvre de l’environnement de l’informatique en nuage du GC. [L’approche et les procédures de gestion des risques à la sécurité de l’informatique en nuage du gouvernement du Canada](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/innovations-gouvernementales-numeriques/services-informatique-nuage/approche-procedures-gestion-risques-securite-informatique-nuage.html) décrivent les activités que les ministères doivent envisager dans le cadre des activités de gestion des risques ministériels.
+Les ministères devraient collaborer avec leurs équipes de gestion des risques de sécurité de la TI pour obtenir des conseils et une orientation sur l’intégration des activités d’évaluation et d’autorisation de la sécurité dans le cadre de la mise en œuvre de l’environnement d’informatique en nuage du GC. L’[approche et les procédures de gestion des risques à la sécurité de l’informatique en nuage du gouvernement du Canada](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/innovations-gouvernementales-numeriques/services-informatique-nuage/approche-procedures-gestion-risques-securite-informatique-nuage.html) décrivent les activités que les ministères doivent envisager dans le cadre des activités de gestion des risques ministériels.
 
-## Comment contribuer
+## Façon de contribuer
 
-Voir [CONTRIBUTING.md](CONTRIBUTING.md)
+Consulter [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Licence
 
-Sauf indication contraire, le code source de ce projet est protégé par le droit d'auteur de la Couronne du gouvernement du Canada et distribué sous la [licence MIT](LICENSE).
+Sauf indication contraire, le code source de ce projet est couvert par le droit d’auteur de la Couronne, gouvernement du Canada, et est distribué en vertu d’une [licence MIT](https://github.com/canada-ca/cloud-guardrails/blob/master/LICENSE).
 
-Le mot-symbole « Canada » et les éléments graphiques connexes liés à cette distribution sont protégés en vertu des lois portant sur les marques de commerce et le droit d'auteur. Aucune autorisation n'est accordée pour leur utilisation à l'extérieur des paramètres du programme de coordination de l'image de marque du gouvernement du Canada. Pour obtenir davantage de renseignements à ce sujet, veuillez consulter les [Exigences pour l'image de marque](https://www.canada.ca/fr/secretariat-conseil-tresor/sujets/communications-gouvernementales/exigences-image-marque.html).
+Le mot-symbole Canada et les graphiques connexes liés à cette distribution sont protégés en vertu du droit des marques de commerce et des lois sur le droit d’auteur. Aucune permission n’est accordée pour les utiliser en dehors des paramètres du Programme de coordination de l’image de marque du gouvernement du Canada. Pour en apprendre davantage, consulter [Exigences pour l’image de marque](https://www.canada.ca/fr/secretariat-conseil-tresor/sujets/communications-gouvernementales/exigences-image-marque.html).

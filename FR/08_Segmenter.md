@@ -1,5 +1,7 @@
 # Segmenter et séparer
 
+([Retourner](../README.md))
+
 ## Objectif
 
 Segmenter et séparer les renseignements en fonction de leur sensibilité.

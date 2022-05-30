@@ -1,5 +1,7 @@
 ## Profil de l’usage du nuage
 
+([Retourner](../README.md))
+
 Un résumé des différents types d’utilisation du nuage est présenté dans la description du profil dans le tableau ci-dessous :
 
 | Réf. | Profile | Caractéristiques | Modèle de service applicable | Type de connexion |
