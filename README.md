@@ -1,6 +1,6 @@
 # GC Cloud Guardrails
 
-([Français](#cloud-guardrails#gc-mesures-de-sécurité-du-nuage))
+([Français](#mesures-de-protection-du-nuage-du-gc))
 
 This project will host the minimum guardrails as part of the GC Cloud Operationalization Framework. The users of this project will be Government of Canada employees deploying cloud-based workloads.
 
