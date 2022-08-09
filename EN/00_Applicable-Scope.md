@@ -4,6 +4,8 @@
 
 A summary of the different types of cloud usage is outlined in the description of the profile in the table below:
 
+Note: refer to slide 18-19 of https://wiki.gccollab.ca/images/7/75/GC_Cloud_Connection_Patterns.pdf
+
 | Ref # | Profile | Characteristics | Applicable Service Model | Connection Type |
 |- |- |- |- |- |
 | 1 | Experimentation/Sandbox | <ul><li>Cloud-based services used for experimentation/sandbox</li><li>No direct system to system network interconnections required with GC data centers </li></ul> | IaaS, PaaS, SaaS | Type 1 - EIS/IIS |
