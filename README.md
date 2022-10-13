@@ -57,7 +57,7 @@ Le présent projet héberge les mesures de protection minimales faisant partie d
 
 ## Objet
 
-L’objectif des mesures de protection est de veiller à ce que les ministères et les organismes mettent en œuvre un ensemble de mesures préliminaire dans leur environnement d’informatique en nuage. Ces mesures de protection minimales doivent être mises en œuvre au cours de la période initiale précisée par le GC (p. ex., 30 jours) à la réception de l’inscription en vertu de l’accord-cadre sur les services d’informatique en nuage du GC.
+L’objectif des mesures de protection est de veiller à ce que les ministères et les organismes mettent en œuvre un ensemble de mesures préliminaire dans leur environnement d’informatique en nuage. 
 
 ## Résumé - 30 premiers jours
 
