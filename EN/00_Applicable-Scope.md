@@ -4,7 +4,7 @@
 
 A summary of the different types of cloud usage is outlined in the description of the profile in the table below:
 
-Note: refer to slide 18-19 of https://wiki.gccollab.ca/images/7/75/GC_Cloud_Connection_Patterns.pdf
+Note: refer to slide 18-19 of [Cloud Connection Patterns Overview](https://wiki.gccollab.ca/images/7/75/GC_Cloud_Connection_Patterns.pdf)
 
 | Ref # | Profile | Characteristics | Applicable Service Model | Connection Type |
 |- |- |- |- |- |
