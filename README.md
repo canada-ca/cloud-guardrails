@@ -6,7 +6,7 @@ This project will host the minimum guardrails as part of the GC Cloud Operationa
 
 ## Purpose
 
-The purpose of the guardrails is to ensure that departments and agencies are implementing a preliminary baseline set of controls within their cloud-based environments. 
+The purpose of the guardrails is to ensure that departments and agencies are implementing a preliminary baseline set of controls within their cloud-based environments.
 
 ## Summary - Initial 30 Days
 
@@ -57,7 +57,7 @@ Le présent projet héberge les mesures de protection minimales faisant partie d
 
 ## Objet
 
-L’objectif des mesures de protection est de veiller à ce que les ministères et les organismes mettent en œuvre un ensemble de mesures préliminaire dans leur environnement d’informatique en nuage. 
+L’objectif des mesures de protection est de veiller à ce que les ministères et les organismes mettent en œuvre un ensemble de mesures préliminaire dans leur environnement d’informatique en nuage.
 
 ## Résumé - 30 premiers jours
 
