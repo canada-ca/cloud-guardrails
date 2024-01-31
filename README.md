@@ -2,41 +2,36 @@
 
 ([Français](#mesures-de-protection-du-nuage-du-gc))
 
-This project will host the minimum guardrails as part of the GC Cloud Operationalization Framework. The users of this project will be Government of Canada employees deploying cloud-based workloads.
+## Introduction
 
-## Purpose
+The Government of Canada Cloud Guardrails describe a preliminary set of baseline cyber security controls to ensure that the cloud service environment has a minimum set of configurations. Departments must implement, validate and report on compliance with the guardrails in the first 30 business days of getting access to their cloud account.
 
-The purpose of the guardrails is to ensure that departments and agencies are implementing a preliminary baseline set of controls within their cloud-based environments.
+Departments are responsible for implementing the minimum configurations identified in the following tables. Validation of the guardrails will be performed by the SSC Cloud Services Directorate. The [Standard Operating Procedure for GC Cloud Guardrails Validation and Escalation Oversight](https://gcxgce.sharepoint.com/teams/1000233/Shared%20Documents/Cloud%20Guardrails_Mesures%20de%20protection%20de%20nuage/SOP%20for%20Validating%20Cloud%20Guardrails%20v0.4.2_EN.docx) has been developed to support the validation.
 
-## Summary - Initial 30 Days
+## Definitions
 
-A summary of the cloud guardrails to be implemented in the initial phase are identified in the table below:
+For this document the following definitions will be used:
 
-| ID. | Cloud Guardrails |
-| --- | --- |
-| 01 | [Protect root / global admins account](EN/01_Protect-Root-Account.md) |
-| 02 | [Management of administrative privileges](EN/02_Management-Admin-Privileges.md) |
-| 03 | [Cloud console access](EN/03_Cloud-Console-Access.md) |
-| 04 | [Enterprise monitoring accounts](EN/04_Enterprise-Monitoring-Accounts.md) |
-| 05 | [Data location](EN/05_Data-Location.md) |
-| 06 | [Protection of data-at-rest](EN/06_Protect-Data-at-Rest.md) |
-| 07 | [Protection of data-in-transit](EN/07_Protect-Data-in-Transit.md) |
-| 08 | [Segment and separate](EN/08_Segmentation.md) |
-| 09 | [Network security services](EN/09_Network-Security-Services.md) |
-| 10 | [Cyber defense services](EN/10_Cyber-Defense-Services.md) |
-| 11 | [Logging and monitoring](EN/11_Logging-and-Monitoring.md) |
-| 12 | [Configuration of cloud marketplaces](EN/12_Cloud-Marketplace-Config.md) |
+- Mandatory requirements: A set of baseline security controls that departments must implement, validate and report on in the first 30 business days of getting access to their cloud account.
+- Additional security controls that are highly recommended and should be taken into consideration. While these controls are not expected to be implemented within 30 business days of departments getting access to their cloud account, the controls include best practices that should be considered as departments establish their cloud-based environments.
 
-The [applicable scope for the guardrails](EN/00_Applicable-Scope.md) for the guardrails are based on cloud usage profiles.
+## Cloud Guardrails
 
-## Post 30 Days
-
-Departments are expected to continue implementing the security requirements as outlined in:
-
-* [Direction on the Secure Use of Commercial Cloud Services: Security Implementation Notice (SPIN)](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/cloud-services/direction-secure-use-commercial-cloud-services-spin.html)
-* [Government of Canada Security Control Profile for Cloud-Based GC Services](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/cloud-services/government-canada-security-control-profile-cloud-based-it-services.html)
-
-Departments should engage with their IT Security Risk Management teams to obtain advice and guidance on integrating security assessment and authorization activities as part of the implementation of the GC cloud environment. The [Government of Canada Cloud Security Risk Management Approach and Procedures](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/cloud-services/cloud-security-risk-management-approach-procedures.html) outlines activities for Departments to consider as part of the departmental risk management activities.
+| ID. | Cloud Guardrails                                                                      |
+| --- | ------------------------------------------------------------------------------------- |
+| 01  | [Protect User Accounts and Identities](EN/01_Protect-user-accounts-and-identities.md) |
+| 02  | [Manage Access](EN/02_Manage-Access.md)                                               |
+| 03  | [Secure Endpoints](EN/03_Secure-Endpoints.md)                                         |
+| 04  | [Enterprise monitoring accounts](EN/04_Enterprise-Monitoring-Accounts.md)             |
+| 05  | [Data location](EN/05_Data-Location.md)                                               |
+| 06  | [Protection of data-at-rest](EN/06_Protect-Data-at-Rest.md)                           |
+| 07  | [Protection of data-in-transit](EN/07_Protect-Data-in-Transit.md)                     |
+| 08  | [Segment and separate](EN/08_Segmentation.md)                                         |
+| 09  | [Network security services](EN/09_Network-Security-Services.md)                       |
+| 10  | [Cyber defense services](EN/10_Cyber-Defense-Services.md)                             |
+| 11  | [Logging and monitoring](EN/11_Logging-and-Monitoring.md)                             |
+| 12  | [Configuration of cloud marketplaces](EN/12_Cloud-Marketplace-Config.md)              |
+| 13  | [Plan for Continuity](EN/13_Plan-for-Continuity.md)                                   |
 
 ## How to Contribute
 
@@ -48,53 +43,47 @@ Unless otherwise noted, the source code of this project is covered under Crown C
 
 The Canada wordmark and related graphics associated with this distribution are protected under trademark law and copyright law. No permission is granted to use them outside the parameters of the Government of Canada's corporate identity program. For more information, see [Federal identity requirements](https://www.canada.ca/en/treasury-board-secretariat/topics/government-communications/federal-identity-requirements.html).
 
-______________________
+---
 
 <!-- markdownlint-disable MD024 MD025 -->
+
 # Mesures de protection du nuage du GC
 
-Le présent projet héberge les mesures de protection minimales faisant partie du Cadre de mise en œuvre du nuage du gouvernement du Canada (GC). Les utilisateurs de ce projet seront les employés du gouvernement du Canada qui déploient des charges de travail en matière d’informatique en nuage.
+## Introduction
 
-## Objet
+En août 2019, le gouvernement du Canada (GC) a mis en place les Mesures de protection du nuage du GC. Les Mesures de protection du nuage du GC sont mandatées en vertu de la Directive sur les services et le numérique – canada.ca – annexe G : Norme sur les configurations courantes des services de la TI intégrée – canada.ca. Les Mesures de protection du nuage du GC sont un ensemble préliminaire de mesures de sécurité de base visant à garantir que l’environnement des services en nuage dispose d’un ensemble minimal de configurations pour l’environnement d’informatique en nuage. Les ministères sont responsables de la mise en œuvre des configurations minimales indiquées dans le tableau ci-dessous. La Direction des services d’informatique en nuage de SPC sera chargée de valider les mesures de protection.
 
-L’objectif des mesures de protection est de veiller à ce que les ministères et les organismes mettent en œuvre un ensemble de mesures préliminaire dans leur environnement d’informatique en nuage.
+## Définitions
 
-## Résumé - 30 premiers jours
+Les définitions suivantes seront utilisées dans le cadre du présent document :
 
-Un résumé des mesures de protection du nuage à mettre en œuvre dans le cadre de la phase initiale est fourni dans le tableau ci-dessous.
+- Exigences obligatoires : Un ensemble de mesures de sécurité de base que les ministères doivent mettre en œuvre, valider et faire rapport dans les 30 premiers jours ouvrables.
+- Autres considérations : Autres mesures de sécurité qui sont fortement recommandées et doivent être prises en considération. Bien que l’on ne s’attende pas à ce qu’elles soient mises en œuvre dans les 30 jours ouvrables, elles comprennent les pratiques exemplaires qui devraient être prises en compte à mesure que les ministères progressent dans la mise en place de leur environnement en nuage.
 
-| ID. | Mesures de sécurité du nuage |
-| --- | --- |
-| 01 | [Protéger le compte racine ou des administrateurs généraux](FR/01_Protéger-le-compte-racine.md) |
-| 02 | [Gestion des privilèges d’administration](FR/02_Gestion-des-privilèges-d’administration.md) |
-| 03 | [Accès à la console du nuage](FR/03_Accès-à-la-console-du-nuage.md) |
-| 04 | [Comptes de surveillance organisationnels](FR/04_Comptes-de-surveillance-organisationnels.md) |
-| 05 | [Emplacement des données](FR/05_Emplacement-des-données.md) |
-| 06 | [Protection des données au repos](FR/06_Protection-des-données-au-repos.md) |
-| 07 | [Protection des données en transit](FR/07_Protection-des-données-en-transit.md) |
-| 08 | [Segmenter et séparer](FR/08_Segmenter.md) |
-| 09 | [Services de sécurité du réseau](FR/09_Services-de-sécurité-du-réseau.md) |
-| 10 | [Services de cyberdéfense](FR/10_Services-de-cyberdéfense.md) |
-| 11 | [Journalisation et surveillance](FR/11_Journalisation-et-surveillance.md) |
-| 12 | [Configuration des marchés de l’informatique en nuage](FR/12_Configuration-des-marchés.md) |
+## Mesures de protection du nuage
 
-La [portée applicable des mesures de protection](FR/00_Portée-Applicable.md) est fondée sur les profils d’utilisation du nuage.
-
-## Après 30 jours
-
-Les ministères devraient continuer à mettre en œuvre les exigences de sécurité énoncées dans les documents suivants :
-
-* [Orientation sur l’utilisation sécurisée des services commerciaux d’informatique en nuage : Avis de mise en œuvre de la Politique sur la sécurité (AMOPS)](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/innovations-gouvernementales-numeriques/services-informatique-nuage/orientation-utilisation-securisee-services-commerciaux-informatique-nuage-amops.html)
-* [Profil des mesures de sécurité pour les services du GC fondés sur l’informatique en nuage](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/innovations-gouvernementales-numeriques/services-informatique-nuage/profil-controle-securite-services-ti-fondes-information-nuage.html)
-
-Les ministères devraient collaborer avec leurs équipes de gestion des risques de sécurité de la TI pour obtenir des conseils et une orientation sur l’intégration des activités d’évaluation et d’autorisation de la sécurité dans le cadre de la mise en œuvre de l’environnement d’informatique en nuage du GC. L’[approche et les procédures de gestion des risques à la sécurité de l’informatique en nuage du gouvernement du Canada](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/innovations-gouvernementales-numeriques/services-informatique-nuage/approche-procedures-gestion-risques-securite-informatique-nuage.html) décrivent les activités que les ministères doivent envisager dans le cadre des activités de gestion des risques ministériels.
+| ID. | Mesures de protection du nuage                                                                                        |
+| --- | --------------------------------------------------------------------------------------------------------------------- |
+| 01  | [Protéger les comptes d’utilisateurs et les identités](FR/01_Protéger-les-comptes-d’utilisateurs-et-les-identités.md) |
+| 02  | [Gérer l’accès](FR/02_Gérer-l’accès.md)                                                                               |
+| 03  | [Sécuriser les points d’extrémité](FR/03_Sécuriser-les-points-d’extrémité.md)                                         |
+| 04  | [Comptes de surveillance de l’organisation](FR/04_Comptes-de-surveillance-de-l’organisation.md)                       |
+| 05  | [Emplacement des données](FR/05_Emplacement-des-données.md)                                                           |
+| 06  | [Protection des données inactives](FR/06_Protection-des-données-inactives.md)                                         |
+| 07  | [Protection des données en transit](FR/07_Protection-des-données-en-transit.md)                                       |
+| 08  | [Segmenter et séparer](FR/08_Segmenter-et-séparer.md)                                                                 |
+| 09  | [Services de sécurité des réseaux](FR/09_Services-de-sécurité-des-réseaux.md)                                         |
+| 10  | [Services de cyberdéfense](FR/10_Services-de-cyberdéfense.md)                                                         |
+| 11  | [Enregistrement et surveillance](FR/11_Enregistrement-et-surveillance.md)                                             |
+| 12  | [Configuration des marchés de l’informatique en nuage](FR/12_Configuration-des-marchés-de-l’informatique-en-nuage.md) |
+| 13  | [Planifier la continuité](FR/13_Planifier-la-continuité.md)                                                           |
 
 ## Façon de contribuer
 
-Consulter [CONTRIBUTING.md](CONTRIBUTING.md).
+Consulter [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ## Licence
 
-Sauf indication contraire, le code source de ce projet est couvert par le droit d’auteur de la Couronne, gouvernement du Canada, et est distribué en vertu d’une [licence MIT](https://github.com/canada-ca/cloud-guardrails/blob/master/LICENSE).
+Sauf indication contraire, le code source de ce projet est couvert par le droit d’auteur de la Couronne, gouvernement du Canada, et est distribué en vertu d’une [licence MIT](LICENSE).
 
 Le mot-symbole Canada et les graphiques connexes liés à cette distribution sont protégés en vertu du droit des marques de commerce et des lois sur le droit d’auteur. Aucune permission n’est accordée pour les utiliser en dehors des paramètres du Programme de coordination de l’image de marque du gouvernement du Canada. Pour en apprendre davantage, consulter [Exigences pour l’image de marque](https://www.canada.ca/fr/secretariat-conseil-tresor/sujets/communications-gouvernementales/exigences-image-marque.html).

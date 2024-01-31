@@ -6,21 +6,21 @@
 
 Restrict Third-Party CSP Marketplace software to GC-approved products.
 
-## Key Considerations
-
-* [ ] Only GC approved cloud marketplace products are to be consumed. Turning on the commercial marketplace is prohibited.
-* [ ] Submit requests to add third-party products to marketplace to SSC Cloud Broker.
-
-## Validation
-
-* [ ] Confirm that third-party marketplace restrictions have been implemented.
-
 ## Applicable Service Models
 
-* IaaS, PaaS, SaaS
+- IaaS, PaaS, SaaS
+
+| Mandatory Requirements                                                                                                                 | Validation                                                                                 |
+| -------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| <ul><li>Only GC approved cloud marketplace products are to be consumed. Turning on the commercial marketplace is prohibited.</li></ul> | <ul><li>Confirm that third-party marketplace restrictions have been implemented.</li></ul> |
+
+| Additional Considerations                                                                                                                                                   |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>Submit requests to add third-party products to marketplace to SSC Cloud Broker.</li></ul>                                                                           |
+| <ul><li>Ensure that software offered through the CSPs or CSP marketplace undergo a software assurance process to ensure that only approved products are consumed.</li></ul> |
 
 ## References
 
-1. [SPIN 2017-01](https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/security-identity-management/direction-secure-use-commercial-cloud-services-spin.html), subsection 6.2.5
-2. Refer to [GCconnex](https://gcconnex.gc.ca/file/view/62841157/gc-cloud-broker-sci-assessed-marketplace-products?language=en) for current list of approved marketplace products.
-3. Related security controls: CM‑2, CM‑3, CM‑4, CM‑5, CM‑8, SA‑22
+1. [SPIN 2017-01](https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/security-identity-management/direction-secure-use-commercial-cloud-services-spin.html), subsection 6.2.5
+
+Related security controls: CM‑5, CM‑8, SA‑12

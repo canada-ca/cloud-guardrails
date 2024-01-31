@@ -1,33 +1,33 @@
 # Protection des données en transit
 
-([Retourner](../README.md))
+([Retour](../README.md))
 
 ## Objectif
 
-Protéger les réseaux de transit de données à l’aide de mesures de protection appropriées de chiffrement et de réseau.
+Protéger les données transitant sur les réseaux par le recours à un mécanisme de cryptage approprié et des mesures de protection des réseaux.
 
-## Principales considérations
+## Modèles de services applicables
 
-* Mettre en œuvre un mécanisme de chiffrement pour protéger la confidentialité et l’intégrité des données lorsque celles-ci sont en transit à destination et en provenance de votre solution.
-* Utiliser des algorithmes et des protocoles cryptographiques approuvés par le CST.
-* Chiffrement des données en transit par défaut (p. ex., TLS v1.2, etc.) pour tous les sites accessibles au public et les communications externes, conformément à l’orientation sur la [Mise en œuvre de HTTPS pour les connexions Web sécurisées](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/technologiques-modernes-nouveaux/avis-mise-oeuvre-politique/mise-oeuvre-https-connexions-web-securisees-ampti.html) (Avis de mise en œuvre de la Politique sur la technologie de l’information [AMPTI] 2018-01).
-* Chiffrement pour tous les accès aux services d’informatique en nuage (p. ex., stockage d’informatique en nuage, systèmes de gestion des clés, etc.).
-* Envisager le chiffrement pour la communication de zone interne dans le nuage en fonction du profil de risque et selon la directive dans l’orientation liée aux zones de sécurité de réseau du Centre canadien pour la cybersécurité (CCCS) dans [ITSG-22](https://cyber.gc.ca/sites/default/files/publications/itsg-22-fra_4.pdf) et [ITSG-38](https://cyber.gc.ca/fr/orientation/considerations-de-conception-relatives-au-positionnement-des-services-dans-les-zones).
-* Mettre en œuvre des procédures essentielles de gestion.
+- IaaS, PaaS, SaaS
 
-## Validation
+| Exigences obligatoires                                                                                                                                                                                                                                                                                                                                                                             | Validation                                                                                                                                                                                                                                                                                                                                                                               |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>Chiffrer les données en transit par défaut (p. ex., TLS v1.2, etc.) afin de protéger la confidentialité et l’intégrité des données, y compris pour tous les sites accessibles au public et les communications externes, conformément aux exigences de configuration des sites Web et des services du GC, et dans la mesure du possible pour les communications en zone interne. </li></ul> | <ul><li>Confirmer que le cryptage TLS v1.2 ou version supérieure est mis en œuvre pour tous les services en nuage (au moyen de HTTPS, TLS ou autre mécanisme). <p>(Nota : Bien qu’il s’agisse souvent de la valeur par défaut, les plateformes et les services en nuage disposent souvent d’options de configuration permettant de sélectionner la version TLS autorisée.)</p></li></ul> |
+| <ul><li>Utiliser des algorithmes et des protocoles cryptographiques approuvés par le CST, conformément aux guides ITSP.40.111 et ITSP.40.062. </li></ul>                                                                                                                                                                                                                                           | <ul><li>Les algorithmes et protocoles cryptographiques que le client peut configurer sont exploités conformément aux guides ITSP 40.111 et 40.062.</li></ul>                                                                                                                                                                                                                             |
+| <ul><li>Utiliser des certificats d’entité non personnelle provenant d’autorités de certification qui respectent les recommandations pour les certificats serveurs TLS.</li></ul>                                                                                                                                                                                                                   | <ul><li>Confirmer que les certificats NPE sont émis par des autorités de certification qui respectent les recommandations du GC pour les certificats serveurs TLS.</li></ul>                                                                                                                                                                                                             |
 
-* Confirmer la stratégie de transmission réseau sécurisée.
-
-## Modèles de service applicables
-
-* IaaS, PaaS, SaaS
+| Autres considérations |
+| --------------------- |
+| Aucune                |
 
 ## Références
 
-1. [AMOPS 2017-01](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/innovations-gouvernementales-numeriques/services-informatique-nuage/orientation-utilisation-securisee-services-commerciaux-informatique-nuage-amops.html), sous-section 6.2.4.
-2. [AMPTI 2018-01](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/technologiques-modernes-nouveaux/avis-mise-oeuvre-politique/mise-oeuvre-https-connexions-web-securisees-ampti.html).
-3. Consulter les conseils en matière de cryptographie sous les publications [40.111](https://cyber.gc.ca/fr/orientation/algorithmes-cryptographiques-pour-linformation-non-classifie-protege-et-protege-b) et [40.062](https://cyber.gc.ca/sites/default/files/publications/itsap40062-fr_0.pdf).
-4. Consulter l’orientation liée aux zones de sécurité de réseau dans [ITSG-22](https://cyber.gc.ca/sites/default/files/publications/itsg-22-fra_4.pdf) et [ITSG-38](https://cyber.gc.ca/fr/orientation/considerations-de-conception-relatives-au-positionnement-des-services-dans-les-zones).
-5. Consulter l’orientation dans les [Considérations relatives à l’utilisation de la cryptographie dans les services d’informatique en nuage commerciaux](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/innovations-gouvernementales-numeriques/services-informatique-nuage/consideration-utilisation-crrptographie-services-informatique-nauge.html).
-6. Mesures de sécurité connexes : SC-8, SC-8(1), SC-12, SC-13, SC-17.
+1. [AMOPS 2017-01](https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/security-identity-management/direction-secure-use-commercial-cloud-services-spin.html), sous-section 6.2.4.
+2. Consulter la [Directive sur les services et le numérique](https://www.tbs-sct.canada.ca/pol/doc-fra.aspx?id=32601), [l’annexe G : Norme sur les configurations courantes des services de la TI intégrée](https://www.tbs-sct.canada.ca/pol/doc-fra.aspx?id=32713) et les [Exigences de configuration de la gestion des sites Web et des services](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/politiques-normes/configurations-courantes-services-ti-integree/sites-web.html).
+3. Consulter les guides [ITSP.40.111](https://cyber.gc.ca/fr/orientation/algorithmes-cryptographiques-linformation-non-classifie-protege-protege-b-itsp40111) et [ITSP.40.062](https://www.cyber.gc.ca/fr/orientation/conseils-sur-la-configuration-securisee-des-protocoles-reseau-itsp40062) portant sur la cryptographie.
+4. Consulter les guides sur les zones de sécurité de réseau [ITSG-22](https://cyber.gc.ca/fr/orientation/exigences-de-base-en-matiere-de-securite-pour-les-zones-de-securite-de-reseau-version) et [ITSG-38](https://cyber.gc.ca/fr/orientation/considerations-de-conception-relatives-au-positionnement-des-services-dans-les-zones).
+5. Consulter le guide [Guide sur le chiffrement des services infonuagiques (ITSP.50.106)](https://www.cyber.gc.ca/fr/orientation/guide-sur-le-chiffrement-des-services-infonuagiques-itsp50106).
+6. [Recommandations du gouvernement du Canada concernant les certificats de serveur TLS pour les services Web du GC destinés au public](https://wiki.gccollab.ca/images/9/92/Recommendations_for_TLS_Server_Certificates_-_14_May_2021.pdf).
+7. Se reporter à [ITSP.50.104 Guide sur la défense en profondeur pour les services fondés sur l’informatique en nuage](https://cyber.gc.ca/fr/orientation/guide-sur-la-defense-en-profondeur-pour-les-services-fondes-sur-linfonuagique-itsp50104), sous-section 4.5.
+
+Mesures de sécurité connexes : IA-7,SC12, SC13, SC28, SC28(1)
