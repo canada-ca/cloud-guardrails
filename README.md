@@ -33,6 +33,18 @@ For this document the following definitions will be used:
 | 12  | [Configuration of cloud marketplaces](EN/12_Cloud-Marketplace-Config.md)              |
 | 13  | [Plan for Continuity](EN/13_Plan-for-Continuity.md)                                   |
 
+## After the first 30 business days
+
+Implementing the guardrails is one of the first steps to establishing a secure cloud-based environment. Departments are expected to continue implementing the security requirements as outlined in:
+
+- [Direction on the Secure Use of Commercial Cloud Services: Security Policy Implementation Notice](https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/security-identity-management/direction-secure-use-commercial-cloud-services-spin.html) (SPIN) 2017-01
+- [Government of Canada Security Control Profile for Cloud-Based GC Services](https://www.canada.ca/en/government/system/digital-government/modern-emerging-technologies/cloud-services/government-canada-security-control-profile-cloud-based-it-services.html)
+
+Departments should engage with their IT security risk management teams to obtain advice and guidance on integrating security assessment and authorization activities as part of the implementation of the GC cloud environment. The [Government of Canada Cloud Security Risk Management Approach and Procedures](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/cloud-services/cloud-security-risk-management-approach-procedures.html) outlines activities for departments to consider as part of risk management.
+
+Shared Services Canada (SSC) will perform periodic audits of the departmental tenant environment to ensure ongoing compliance with the guardrails after the first 30 business days.
+
+
 ## How to Contribute
 
 See [CONTRIBUTING.md](CONTRIBUTING.md)

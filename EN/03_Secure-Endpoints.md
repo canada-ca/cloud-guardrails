@@ -10,20 +10,27 @@ Implement increased levels of protection for management interfaces.
 
 - IaaS, PaaS, SaaS
 
-| Mandatory Requirements                                                                                                                                                                            | Validation                                                                                                                                                                                                                                                                                       |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| <ul><li>Implement access restrictions to ensure the use of GC issued and managed devices that are patched and managed, in accordance with GC Endpoint Management Configuration Requirements.</li></ul> | <ul><li>Confirm that administrative access to cloud environments is from approved and trusted locations and GC issued and managed devices that enforce the GC endpoint management configuration requirements.</li><li>Demonstrate access configurations and policies are implemented for devices.</li></ul> |
+## Mandatory Requirements
 
-| Additional Considerations                                                                                    |                                                                                                                             |
+| Activity                                                                                                                                                                            | Validation                                                                                                                                                                                                                                                                                       |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <ul><li>Implement access restrictions to ensure that devices issued and managed by the GC are configured and managed, in accordance with [Endpoint Management Configuration Requirements](https://www.canada.ca/en/government/system/digital-government/policies-standards/enterprise-it-service-common-configurations/endpoint.html)</li></ul> | <ul><li>Confirm that administrative access to cloud environments is from approved and trusted locations and from devices issued and managed by the GC that enforce the Endpoint Management Configuration Requirements</li><li>Demonstrate that access configurations and policies are implemented for devices.</li></ul> |
+
+## Additional Considerations
+
+| Activity                                                                                    |      Validation                                                                                                                       |
 | ------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>All administrative tasks should be undertaken on dedicated administrative workstations (Note: A dedicated administrative workstation is a secured physical (thick or thin) client workstation used to perform specific and sensitive administrative tasks or tasks requiring privileged access. This device must have no Internet access and services such as email and web browsing must be disabled and prohibited) </li></ul> | <ul><li>Confirm if dedicated administrative workstations are utilized to conduct all administrative activities</li></ul> |
+| <ul><li>All administrative tasks should be undertaken on dedicated administrative workstations</li><li>Note: a dedicated administrative workstation is a secured physical (thick or thin) client workstation used to perform specific and sensitive administrative tasks or tasks requiring privileged access (such a workstation must have no Internet access and related services, such as email and web browsing, must be disabled and prohibited)</li></ul> | <ul><li>Confirm whether dedicated administrative workstations are used to conduct all administrative activities</li></ul> |
 
 ## References
 
-1. [SPIN 2017-01](https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/security-identity-management/direction-secure-use-commercial-cloud-services-spin.html), subsection 6.2.3
-2. CSE Top 10 #2
-3. Refer to the [Recommendations for Two-Factor User Authentication Within the Government of Canada Enterprise Domain](https://intranet.canada.ca/wg-tg/rtua-rafu-eng.asp)
-4. Refer to the [Directive on Service and Digital](https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=32601), [Appendix G: Standard on Enterprise Information Technology Service Common Configurations](https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=32713) - [Endpoint Management Configuration Requirements](https://www.canada.ca/en/government/system/digital-government/policies-standards/enterprise-it-service-common-configurations/endpoint.html)
-5. Refer to [ITSP.50.104 Guidance on defence in depth for cloud-based services](https://cyber.gc.ca/en/guidance/itsp50104-guidance-defence-depth-cloud-based-services), subsection 4.9
+- [Direction on the Secure Use of Commercial Cloud Services: Security Policy Implementation Notice](https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/security-identity-management/direction-secure-use-commercial-cloud-services-spin.html) (SPIN) 2017-01, subsection 6.2.3
+- Cyber Centre’s top 10 IT security actions, number 2
+- [Recommendations for Two-Factor User Authentication Within the Government of Canada Enterprise Domain](https://intranet.canada.ca/wg-tg/rtua-rafu-eng.asp) (accessible only on the Government of Canada network)
+- [Directive on Service and Digital, Appendix G: Standard on Enterprise Information Technology Service Common Configurations](https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=32713)
+- [Endpoint Management Configuration Requirements](https://www.canada.ca/en/government/system/digital-government/policies-standards/enterprise-it-service-common-configurations/endpoint.html)
+- [Guidance on Defence in Depth for Cloud-Based Services (ITSP.50.104)](https://cyber.gc.ca/en/guidance/itsp50104-guidance-defence-depth-cloud-based-services), subsection 4.9
 
-Related security controls: AC3, AC-3(7), AC-4, AC5, AC6, AC6(5), AC6(10), AC19, AC20(3), IA2, IA2(1),IA2(11), IA4, IA5, IA5(1), SI-4, AU-6, AU-12
+## Related security controls from ITSG-33
+
+AC3, AC-3(7), AC-4, AC-5, AC-6, AC6(5), AC-6(10), AC-19, AC-20(3), IA-2, IA-2(1), IA-2(11), IA-4, IA-5, IA-5(1), SI-4, AU-6, AU-12
