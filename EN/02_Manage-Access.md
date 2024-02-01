@@ -8,7 +8,7 @@ Establish access control policies and procedures for management of all accounts.
 
 ## Applicable Service Models
 
-- IaaS, PaaS, SaaS
+IaaS, PaaS, SaaS
 
 ## Mandatory Requirements
 

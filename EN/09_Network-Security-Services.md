@@ -8,7 +8,7 @@ Establish external and internal network perimeters and monitor network traffic.
 
 ## Applicable Service Models
 
-- IaaS, PaaS, SaaS
+IaaS, PaaS, SaaS
 
 ## Mandatory Requirements
 

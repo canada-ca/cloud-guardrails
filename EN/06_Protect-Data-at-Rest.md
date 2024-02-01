@@ -8,7 +8,7 @@ Protect data at rest by default (for example, storage) for cloud-based workloads
 
 ## Applicable Service Models
 
-- IaaS, PaaS, SaaS
+IaaS, PaaS, SaaS
 
 ## Mandatory Requirements
 

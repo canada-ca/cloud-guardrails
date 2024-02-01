@@ -8,7 +8,7 @@ Ensure that there is a plan for continuity of access and service that accommodat
 
 ## Applicable Service Models
 
-- IaaS, PaaS, SaaS
+IaaS, PaaS, SaaS
 
 ## Mandatory Requirements
 

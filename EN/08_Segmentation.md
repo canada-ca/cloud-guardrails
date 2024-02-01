@@ -8,7 +8,7 @@ Segment and separate information based on sensitivity of information.
 
 ## Applicable Service Models
 
-- IaaS, PaaS
+IaaS, PaaS
 
 ## Note
 

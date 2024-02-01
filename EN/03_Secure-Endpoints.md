@@ -8,7 +8,7 @@ Implement increased levels of protection for management interfaces.
 
 ## Applicable Service Models
 
-- IaaS, PaaS, SaaS
+IaaS, PaaS, SaaS
 
 ## Mandatory Requirements
 

@@ -8,7 +8,7 @@ Enable logging for the cloud environment and for cloud-based workloads.
 
 ## Applicable Service Models
 
-- IaaS, PaaS, SaaS
+IaaS, PaaS, SaaS
 
 ## Mandatory Requirements
 

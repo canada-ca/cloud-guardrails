@@ -8,7 +8,7 @@ Protect data transiting networks through the use of appropriate encryption and n
 
 ## Applicable Service Models
 
-- IaaS, PaaS, SaaS
+IaaS, PaaS, SaaS
 
 ## Mandatory Requirements
 

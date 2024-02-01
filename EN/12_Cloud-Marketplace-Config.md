@@ -8,7 +8,7 @@ Restrict Third-Party CSP Marketplace software to GC-approved products.
 
 ## Applicable Service Models
 
-- IaaS, PaaS, SaaS
+IaaS, PaaS, SaaS
 
 ## Mandatory Requirements
 

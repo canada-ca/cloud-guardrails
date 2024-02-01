@@ -8,7 +8,7 @@ Establish a memorandum of understanding for defensive services and threat-monito
 
 ## Applicable Service Models
 
-- IaaS, PaaS, SaaS
+IaaS, PaaS, SaaS
 
 ## Mandatory Requirements
 

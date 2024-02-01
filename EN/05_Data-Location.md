@@ -8,7 +8,7 @@ Establish policies to restrict sensitive GC workloads to approved geographic loc
 
 ## Applicable Service Models
 
-- IaaS, PaaS, SaaS
+IaaS, PaaS, SaaS
 
 ## Mandatory Requirements
 

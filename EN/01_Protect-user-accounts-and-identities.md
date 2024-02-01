@@ -8,7 +8,7 @@ Protect user accounts and identities.
 
 ## Applicable Service Models
 
-- Infrastructure as a service (IaaS), platform as a service (PaaS), software as a service (SaaS)
+Infrastructure as a service (IaaS), platform as a service (PaaS), software as a service (SaaS)
 
 ## Mandatory Requirements
 

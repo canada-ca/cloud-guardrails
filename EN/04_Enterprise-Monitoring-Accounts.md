@@ -8,7 +8,7 @@ Create role-based account to enable enterprise monitoring and visibility
 
 ## Applicable Service Models
 
-- IaaS, PaaS, SaaS
+IaaS, PaaS, SaaS
 
 ## Mandatory Requirements
 

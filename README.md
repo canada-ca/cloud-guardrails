@@ -63,14 +63,16 @@ The Canada wordmark and related graphics associated with this distribution are p
 
 ## Introduction
 
-En août 2019, le gouvernement du Canada (GC) a mis en place les Mesures de protection du nuage du GC. Les Mesures de protection du nuage du GC sont mandatées en vertu de la Directive sur les services et le numérique – canada.ca – annexe G : Norme sur les configurations courantes des services de la TI intégrée – canada.ca. Les Mesures de protection du nuage du GC sont un ensemble préliminaire de mesures de sécurité de base visant à garantir que l’environnement des services en nuage dispose d’un ensemble minimal de configurations pour l’environnement d’informatique en nuage. Les ministères sont responsables de la mise en œuvre des configurations minimales indiquées dans le tableau ci-dessous. La Direction des services d’informatique en nuage de SPC sera chargée de valider les mesures de protection.
+Les mesures de protection du nuage du gouvernement du Canada décrivent un ensemble préliminaire de mesures de cybersécurité de base visant à garantir que l’environnement des services d’informatique en nuage dispose d’un ensemble minimal de configurations. Les ministères doivent mettre en œuvre et valider les mesures de protection du nuage ainsi que rendre compte de leur conformité à ces mesures dans les 30 premiers jours ouvrables suivant l’obtention de leur compte d’accès au nuage.
+
+Il incombe aux ministères de mettre en œuvre les configurations minimales définies dans les tableaux suivants. La validation des mesures de protection sera assurée par la Direction des services d’informatique en nuage de Services partagés Canada (SPC). La [Procédure opérationnelle normalisée pour la surveillance de la validation et de l’acheminement des mesures de protection de l’informatique en nuage du GC](https://gcxgce.sharepoint.com/teams/1000233/Shared%20Documents/Cloud%20Guardrails_Mesures%20de%20protection%20de%20nuage/SOP%20for%20Validating%20Cloud%20Guardrails%20v0.4.2_FR.docx?web=1&wdLOR=c5CBE968B-4C83-4B7D-A2CC-B0A999B1AE26) a été élaborée pour aider à mener à bien la validation. été élaborée pour aider à mener à bien la validation.
 
 ## Définitions
 
-Les définitions suivantes seront utilisées dans le cadre du présent document :
+Les définitions suivantes seront utilisées pour les mesures de protection du nuage du gouvernement du Canada :
 
-- Exigences obligatoires : Un ensemble de mesures de sécurité de base que les ministères doivent mettre en œuvre, valider et faire rapport dans les 30 premiers jours ouvrables.
-- Autres considérations : Autres mesures de sécurité qui sont fortement recommandées et doivent être prises en considération. Bien que l’on ne s’attende pas à ce qu’elles soient mises en œuvre dans les 30 jours ouvrables, elles comprennent les pratiques exemplaires qui devraient être prises en compte à mesure que les ministères progressent dans la mise en place de leur environnement en nuage.
+- Exigences à respecter : Ensemble de mesures de sécurité de base que les ministères doivent mettre en œuvre et valider, et au regard desquels ils doivent rendre compte de leur conformité, dans les 30 premiers jours ouvrables suivant l’obtention de leur compte d’accès au nuage.
+- Autres considérations : Mesures de sécurité supplémentaires qui sont fortement recommandées et qu’il conviendrait de prendre en considération. Bien qu’il ne soit pas attendu que ces mesures soient mises en œuvre dans les 30 premiers jours ouvrables suivant l’obtention de leur compte d’accès au nuage, elles proposent des pratiques exemplaires qui devraient être prises en considération au fur et à mesure de l’adoption, par les ministères, de leurs environnements d’informatique en nuage.
 
 ## Mesures de protection du nuage
 
@@ -89,6 +91,17 @@ Les définitions suivantes seront utilisées dans le cadre du présent document�
 | 11  | [Enregistrement et surveillance](FR/11_Enregistrement-et-surveillance.md)                                             |
 | 12  | [Configuration des marchés de l’informatique en nuage](FR/12_Configuration-des-marchés-de-l’informatique-en-nuage.md) |
 | 13  | [Planifier la continuité](FR/13_Planifier-la-continuité.md)                                                           |
+
+## Après les 30 premiers jours ouvrables
+
+La mise en œuvre des mesures de sécurité compte parmi les premières étapes de la mise en place d’un environnement sécurisé fondé sur l’informatique en nuage. Il est attendu des ministères qu’ils continuent de mettre en œuvre les exigences en matière de sécurité ainsi qu’elles sont énoncées dans les documents suivants :
+
+- [Orientation sur l’utilisation sécurisée des services commerciaux d’informatique en nuage : Avis de mise en œuvre de la Politique sur la sécurité](https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/security-identity-management/direction-secure-use-commercial-cloud-services-spin.html) (AMOPS) 2017-01.
+- [Profil des mesures de sécurité pour les services du GC fondés sur l’informatique en nuage.](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/innovations-gouvernementales-numeriques/services-informatique-nuage/profil-controle-securite-services-ti-fondes-information-nuage.html)
+
+Les ministères devraient consulter leurs équipes de gestion des risques liés à la sécurité de la TI pour obtenir des conseils et des orientations sur l’intégration des activités d’évaluation et d’autorisation de la sécurité dans le cadre de la mise en œuvre de l’environnement d’informatique en nuage du gouvernement du Canada. Le document [Approche et procédures de gestion des risques à la sécurité de l’informatique en nuage du gouvernement du Canada](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/innovations-gouvernementales-numeriques/services-informatique-nuage/approche-procedures-gestion-risques-securite-informatique-nuage.html) décrit les activités que les ministères doivent envisager dans le cadre de la gestion des risques.
+
+Services partagés Canada procédera à des vérifications périodiques de l’environnement des locataires ministériels afin de veiller au respect des mesures de protection dans les 30 premiers jours ouvrables.
 
 ## Façon de contribuer
 
