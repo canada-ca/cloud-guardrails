@@ -1,25 +1,30 @@
 # Services de cyberdéfense
 
-([Retourner](../README.md))
+([Retour](../README.md))
 
 ## Objectif
 
-Établir un protocole d’entente (PE) pour les services de défense et de surveillance des menaces.
+Établir un protocole d’entente pour les services de défense et les services de surveillance des menaces et de protection contre celles-ci.
 
-## Principales considérations
+## Modèles de services applicables
 
-* Signer un PE avec le Centre canadien pour la cybersécurité (CCCS).
-* Mettre en œuvre des services de cyberdéfense lorsqu’ils sont disponibles.
+IaaS, PaaS, SaaS
 
-## Validation
+## Exigences obligatoires
 
-* Confirmation par le CCCS de la signature du PE par le Ministère.
+| Activité                                                                                                                  | Validation                                                                                                          |
+| --------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>Signer un protocole d’entente avec le CCC en envoyant un courriel à l’adresse [CDOServiceDeployments@cyber.gc.ca](mailto:CDOServiceDeployments@cyber.gc.ca).</ul></li>                      | <ul><li>Confirmer auprès du CCC que le protocole d’entente a été signé.</ul></li>                            |
+| <ul><li>Mettre en œuvre des services de défense, y compris des capteurs au niveau de l’hôte, des capteurs au niveau du nuage et des capteurs au niveau du réseau, conformément aux directives d’intégration du CCC, le cas échéant.</ul></li> | <ul><li>Confirmer que les capteurs du CCC ou d’autres services de cyberdéfense sont mis en œuvre lorsqu’ils sont disponibles.</ul></li> |
 
-## Modèles de service applicables
+## Autres considérations
 
-* IaaS, PaaS, SaaS
+Aucune
 
 ## Références
 
-1. [AMOPS 2017-01](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/innovations-gouvernementales-numeriques/services-informatique-nuage/orientation-utilisation-securisee-services-commerciaux-informatique-nuage-amops.html), section 6.3
-2. Mesures de sécurité connexes : SI-2, SI-4
+- [Orientation sur l’utilisation sécurisée des services commerciaux d’informatique en nuage : Avis de mise en œuvre de la Politique sur la sécurité](https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/security-identity-management/direction-secure-use-commercial-cloud-services-spin.html) (AMOPS) 2017-01, sous-section 6.3.
+
+## Mesures de sécurité connexes du document ITSG-33
+
+SI‑4
