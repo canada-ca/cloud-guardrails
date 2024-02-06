@@ -2,6 +2,8 @@
 
 ([Français](#mesures-de-protection-du-nuage-du-gc))
 
+**The latest version of the GC Cloud Guardrails can be found on [here](https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=32787)**
+
 ## Introduction
 
 The Government of Canada Cloud Guardrails describe a preliminary set of baseline cyber security controls to ensure that the cloud service environment has a minimum set of configurations. Departments must implement, validate and report on compliance with the guardrails in the first 30 business days of getting access to their cloud account.
@@ -60,6 +62,8 @@ The Canada wordmark and related graphics associated with this distribution are p
 <!-- markdownlint-disable MD024 MD025 -->
 
 # Mesures de protection du nuage du GC
+
+**La dernière version du Mesures de protection du nuage du GC est disponible sur [ici](https://www.tbs-sct.canada.ca/pol/doc-fra.aspx?id=32787)**
 
 ## Introduction
 
