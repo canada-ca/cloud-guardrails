@@ -2,9 +2,11 @@
 
 ([Français](#mesures-de-protection-du-nuage-du-gc))
 
-**The latest version of the GC Cloud Guardrails can be found on [here](https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=32787)**
+**The latest version of the GC Cloud Guardrails can be found on [canada.ca](https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=32787).**
 
-**The previous version can be found [here](https://github.com/canada-ca/cloud-guardrails/tree/3a148ddc8451a04fc8bd870cf32130dec4c6cb9a)**
+**The previous version can be found [here](https://github.com/canada-ca/cloud-guardrails/tree/3a148ddc8451a04fc8bd870cf32130dec4c6cb9a).**
+
+**A crosswalk between GC Cloud Guardrails v1.0 and v2.0 is also available here.**
 
 ## Introduction
 
@@ -65,9 +67,11 @@ The Canada wordmark and related graphics associated with this distribution are p
 
 # Mesures de protection du nuage du GC
 
-**La dernière version du Mesures de protection du nuage du GC est disponible sur [ici](https://www.tbs-sct.canada.ca/pol/doc-fra.aspx?id=32787)**
+**La dernière version du Mesures de protection du nuage du GC est disponible sur [canada.ca](https://www.tbs-sct.canada.ca/pol/doc-fra.aspx?id=32787).**
 
-**La version précédente peut être consultée [ici](https://github.com/canada-ca/cloud-guardrails/tree/3a148ddc8451a04fc8bd870cf32130dec4c6cb9a)**
+**La version précédente peut être consultée [ici](https://github.com/canada-ca/cloud-guardrails/tree/3a148ddc8451a04fc8bd870cf32130dec4c6cb9a).**
+
+**Une évaluation entre les Mesures de protection du nuage du GC v1.0 et v2.0 est également disponible ici**
 
 ## Introduction
 
