@@ -6,7 +6,7 @@
 
 **The previous version can be found [here](https://github.com/canada-ca/cloud-guardrails/tree/3a148ddc8451a04fc8bd870cf32130dec4c6cb9a).**
 
-**A crosswalk between GC Cloud Guardrails v1.0 and v2.0 is also available here.**
+**A crosswalk between GC Cloud Guardrails v1.0 and v2.0 is also available.**
 
 ## Introduction
 
@@ -71,7 +71,7 @@ The Canada wordmark and related graphics associated with this distribution are p
 
 **La version précédente peut être consultée [ici](https://github.com/canada-ca/cloud-guardrails/tree/3a148ddc8451a04fc8bd870cf32130dec4c6cb9a).**
 
-**Une évaluation entre les Mesures de protection du nuage du GC v1.0 et v2.0 est également disponible ici**
+**Une évaluation entre les mesures de protection du nuage du GC v1.0 et v2.0 est également disponible**
 
 ## Introduction
 
