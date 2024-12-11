@@ -35,7 +35,7 @@ IaaS, PaaS, SaaS
 - [Direction on the Secure Use of Commercial Cloud Services: Security Policy Implementation Notice](https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/security-identity-management/direction-secure-use-commercial-cloud-services-spin.html), (SPIN) 2017-01, subsection 6.2.3
 - Cyber Centre’s top 10 IT security actions, number 3
 - [User Authentication Guidance for Information Technology Systems (ITSP.30.031 v3)](https://cyber.gc.ca/en/guidance/user-authentication-guidance-information-technology-systems-itsp30031-v3)
-- [Guidance on Cloud Authentication for the Government of Canada](https://intranet.canada.ca/wg-tg/cagc-angc-eng.asp) (accessible only on the Government of Canada network)
+- [Guideline on Cloud Authentication](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/cloud-services/guideline-cloud-authentication.html)
 - [Recommendations for Two-Factor User Authentication Within the Government of Canada Enterprise Domain](https://intranet.canada.ca/wg-tg/rtua-rafu-eng.asp) (accessible only on the Government of Canada network)
 - [Directive on Service and Digital, Appendix G: Standard on Enterprise Information Technology Service Common Configurations](https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=32601)
 - [Account Management Configuration Requirements](https://www.canada.ca/en/government/system/digital-government/policies-standards/enterprise-it-service-common-configurations/account.html)
