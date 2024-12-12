@@ -35,7 +35,7 @@ IaaS, PaaS, SaaS
 - [Directive sur l’utilisation sécurisée des services commerciaux en nuage : Avis de mise en œuvre de la Politique sur la sécurité](https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/security-identity-management/direction-secure-use-commercial-cloud-services-spin.html) (AMOPS) 2017-01, sous-section 6.2.3
 - Mesure 3 des [10 meilleures mesures de sécurité](https://www.cyber.gc.ca/fr/orientation/10-meilleures-mesures-de-securite-des-ti-0) de la TI du CCC
 - [Guide sur l’authentification des utilisateurs dans les systèmes de technologie de l’information (ITSP.30.031 v3)](https://intranet.canada.ca/wg-tg/cagc-angc-fra.asp)
-- [Guide sur l’authentification du nuage pour le gouvernement du Canada](https://intranet.canada.ca/wg-tg/cagc-angc-fra.asp) (accessible uniquement sur le réseau du gouvernement du Canada)
+- [Ligne directrice sur l’authentification en nuage](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/innovations-gouvernementales-numeriques/services-informatique-nuage/ligne-directrice-authentification-nuage.html)
 - [Recommandations pour l’authentification à deux facteurs des utilisateurs dans le domaine opérationnel du gouvernement du Canada](https://intranet.canada.ca/wg-tg/rtua-rafu-fra.asp) (accessible uniquement sur le réseau du gouvernement du Canada)
 - [Directive sur les services et le numérique, annexe G : Norme sur les configurations courantes des services de la TI intégrée](https://www.tbs-sct.canada.ca/pol/doc-fra.aspx?id=32601)
 - [Exigences de configuration relatives à la gestion des comptes](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/politiques-normes/configurations-courantes-services-ti-integree/comptes.html)
